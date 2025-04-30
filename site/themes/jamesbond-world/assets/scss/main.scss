@@ -1,0 +1,10 @@
+// Bootstrap
+@import 'bootstrap/bootstrap-reboot';
+@import 'bootstrap/bootstrap-grid';
+// Add the following line to import the entire Bootstrap library:
+//
+// @import 'bootstrap/bootstrap';
+
+.title {
+  padding: 60px;
+}
