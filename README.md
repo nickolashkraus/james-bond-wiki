@@ -1,1 +1,1 @@
-# [JamesBond.world](https://jamesbond.world)
+# James Bond Wiki
