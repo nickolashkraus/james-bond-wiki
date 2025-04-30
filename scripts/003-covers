@@ -15,7 +15,7 @@ for f in "${EPUBS_DIR}"/*.epub; do
   dir=$(basename "${f}" .epub)
   # Remove cover1.jpg files.
   find "${CONTENT_DIR}/${dir}" -type f -name "cover1.jpg" -delete
-  # Find and replace refereces to 'cover1.jpg'.
+  # Find and replace references to 'cover1.jpg'.
   grep -r -l 'cover1.jpg' "${CONTENT_DIR}/${dir}" | xargs gsed -i "s/cover1.jpg/cover.jpg/g"
   # Copy new covers to 'cover.jpg'.
   cp "${COVERS_DIR}/${dir}.jpg" "${CONTENT_DIR}/${dir}/cover.jpg"
