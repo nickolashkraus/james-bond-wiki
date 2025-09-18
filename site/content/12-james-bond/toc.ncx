@@ -1,279 +1,213 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="a93cabe7-ad33-4a38-a527-a18ee1ea5555"/>
-    <meta name="dtb:depth" content="3"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="6e209d87-9308-416f-a3a1-4458a12c2617" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>You Only Live Twice</text>
+    <text>12 You Only Live Twice</text>
   </docTitle>
   <navMap>
-    <navPoint id="uQlXEI9e6Qsli9vype3HNn7" playOrder="1">
+    <navPoint class="chapter" id="f4212865-f580-4205-ac9f-fa7f06e82452" playOrder="1">
       <navLabel>
-        <text>1</text>
+        <text>PRAISE FOR IAN FLEMING AND YOU ONLY LIVE TWICE</text>
       </navLabel>
-      <content src="20171118-e_split_008.html"/>
-      <navPoint id="uuErjojMbIIJZMiPgApfAoD" playOrder="2">
-        <navLabel>
-          <text>Scissors Cut Paper</text>
-        </navLabel>
-        <content src="20171118-e_split_008.html#calibre_toc_23"/>
-      </navPoint>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="uHcDSLEm47hMwSC6bpRTUZB" playOrder="3">
+    <navPoint class="chapter" id="a52064ab-20ed-4f54-82a6-b924ab51189c" playOrder="2">
       <navLabel>
-        <text>2</text>
+        <text>THE JAMES BOND BOOKS</text>
       </navLabel>
-      <content src="20171118-e_split_009.html"/>
-      <navPoint id="uzFnxDXtWE78b52qk8HaYy8" playOrder="4">
-        <navLabel>
-          <text>Curtains for Bond?</text>
-        </navLabel>
-        <content src="20171118-e_split_009.html#calibre_toc_24"/>
-      </navPoint>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="ukfAeTmVbo877zhUTnqoalE" playOrder="5">
+    <navPoint class="chapter" id="8b45cd11-122c-4af5-911e-af2afd1a65dc" playOrder="3">
       <navLabel>
-        <text>3</text>
+        <text>HALF TITLE</text>
       </navLabel>
-      <content src="20171118-e_split_010.html"/>
-      <navPoint id="uIeXG6sqGt2XrVtKAlcjcQ8" playOrder="6">
-        <navLabel>
-          <text>The Impossible Mission</text>
-        </navLabel>
-        <content src="20171118-e_split_010.html#calibre_toc_25"/>
-      </navPoint>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="uKynTEIKvvCvsHj2ptHjEI9" playOrder="7">
+    <navPoint class="chapter" id="1fe85cf6-1aac-4b76-b1d7-87700c47742c" playOrder="4">
       <navLabel>
-        <text>4</text>
+        <text>COPYRIGHT</text>
       </navLabel>
-      <content src="20171118-e_split_011.html"/>
-      <navPoint id="uogcWuqUzhMbk8BIl95qH67" playOrder="8">
-        <navLabel>
-          <text>Dikko on the Ginza</text>
-        </navLabel>
-        <content src="20171118-e_split_011.html#calibre_toc_26"/>
-      </navPoint>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uyqRYEhVEvoifkatbhnCcz3" playOrder="9">
+    <navPoint class="chapter" id="208894f0-c85a-4c89-87c0-3bd80b19e561" playOrder="5">
       <navLabel>
-        <text>5</text>
+        <text>TITLE</text>
       </navLabel>
-      <content src="20171118-e_split_012.html"/>
-      <navPoint id="unbbYTB4BDs4Jdnnsv2wqWB" playOrder="10">
-        <navLabel>
-          <text>Magic 44</text>
-        </navLabel>
-        <content src="20171118-e_split_012.html#calibre_toc_27"/>
-      </navPoint>
+      <content src="text/part0004.html"/>
     </navPoint>
-    <navPoint id="uuHDgmhPYRzmiF7n3jgRtWE" playOrder="11">
+    <navPoint class="chapter" id="e32931be-3242-4e1b-b675-1350a131c64b" playOrder="6">
       <navLabel>
-        <text>6</text>
+        <text>AUTHOR NOTE</text>
       </navLabel>
-      <content src="20171118-e_split_013.html"/>
-      <navPoint id="uWTd7sCMHnR3icitOkhQblG" playOrder="12">
-        <navLabel>
-          <text>Tiger, Tiger!</text>
-        </navLabel>
-        <content src="20171118-e_split_013.html#calibre_toc_28"/>
-      </navPoint>
+      <content src="text/part0005.html"/>
     </navPoint>
-    <navPoint id="uFjSNJYbaysN64nCBiAx8WE" playOrder="13">
+    <navPoint class="chapter" id="971a7695-fa79-434a-8dc5-bf56343f3d71" playOrder="7">
       <navLabel>
-        <text>7</text>
+        <text>DEDICATION</text>
       </navLabel>
-      <content src="20171118-e_split_014.html"/>
-      <navPoint id="uI6LW9y8a48eTerKGycVO54" playOrder="14">
-        <navLabel>
-          <text>The Death Collector</text>
-        </navLabel>
-        <content src="20171118-e_split_014.html#calibre_toc_29"/>
-      </navPoint>
+      <content src="text/part0006.html"/>
     </navPoint>
-    <navPoint id="u2H3ZQDoZQznIeKoEfUZ5G6" playOrder="15">
+    <navPoint class="chapter" id="3435c9b2-7397-4deb-a3d1-367e91f4a456" playOrder="8">
       <navLabel>
-        <text>8</text>
+        <text>CONTENTS</text>
       </navLabel>
-      <content src="20171118-e_split_015.html"/>
-      <navPoint id="ugdQqbuzQi7dcZkyUcm2gVD" playOrder="16">
-        <navLabel>
-          <text>Slay It with Flowers</text>
-        </navLabel>
-        <content src="20171118-e_split_015.html#calibre_toc_30"/>
-      </navPoint>
+      <content src="text/part0007.html"/>
     </navPoint>
-    <navPoint id="ufG3NZcPPkP5ojWbQJgIgpC" playOrder="17">
+    <navPoint class="chapter" id="de3f4ef1-edfe-4e41-bf9e-c5b216bcdfe9" playOrder="9">
       <navLabel>
-        <text>9</text>
+        <text>PART ONE | ‘IT IS BETTER TO TRAVEL HOPEFULLY ...</text>
       </navLabel>
-      <content src="20171118-e_split_016.html"/>
-      <navPoint id="uT9MWUGwhPZYOt8UB3T4shF" playOrder="18">
-        <navLabel>
-          <text>Instant Japan</text>
-        </navLabel>
-        <content src="20171118-e_split_016.html#calibre_toc_31"/>
-      </navPoint>
+      <content src="text/part0008.html"/>
     </navPoint>
-    <navPoint id="utnTTTSN6QGDt4M9e4SZCWE" playOrder="19">
+    <navPoint class="chapter" id="6eb92f85-f92a-40aa-9287-ec04726533f8" playOrder="10">
       <navLabel>
-        <text>10</text>
+        <text>1 | SCISSORS CUT PAPER</text>
       </navLabel>
-      <content src="20171118-e_split_017.html"/>
-      <navPoint id="uZEGJZL6rwr3MdwLmaNYgYB" playOrder="20">
-        <navLabel>
-          <text>Advanced Studies</text>
-        </navLabel>
-        <content src="20171118-e_split_017.html#calibre_toc_32"/>
-      </navPoint>
+      <content src="text/part0009.html"/>
     </navPoint>
-    <navPoint id="u3v7jCto7x6etQLQYwmHZJF" playOrder="21">
+    <navPoint class="chapter" id="605c7e0e-4686-4221-934f-ba3cca8025b6" playOrder="11">
       <navLabel>
-        <text>11</text>
+        <text>2 | CURTAINS FOR BOND?</text>
       </navLabel>
-      <content src="20171118-e_split_018.html"/>
-      <navPoint id="uDqHNoRQquNvrSgTIuIICi8" playOrder="22">
-        <navLabel>
-          <text>Anatomy Class</text>
-        </navLabel>
-        <content src="20171118-e_split_018.html#calibre_toc_33"/>
-      </navPoint>
+      <content src="text/part0010.html"/>
     </navPoint>
-    <navPoint id="uoyliM39M6wPzuYA34fcR57" playOrder="23">
+    <navPoint class="chapter" id="26a382e9-dd79-4525-81be-10f3a7cd56b0" playOrder="12">
       <navLabel>
-        <text>12</text>
+        <text>3 | THE IMPOSSIBLE MISSION</text>
       </navLabel>
-      <content src="20171118-e_split_020.html"/>
-      <navPoint id="uAqfRm9ZxpXyPDS9k8gSyoG" playOrder="24">
-        <navLabel>
-          <text>Appointment in Samarra</text>
-        </navLabel>
-        <content src="20171118-e_split_020.html#calibre_toc_34"/>
-      </navPoint>
+      <content src="text/part0011.html"/>
     </navPoint>
-    <navPoint id="usL96uWJJrmMwBYTryUHkP2" playOrder="25">
+    <navPoint class="chapter" id="e21fdcf5-2cef-4483-912d-8ebb49cb1b14" playOrder="13">
       <navLabel>
-        <text>13</text>
+        <text>4 | DIKKO ON THE GINZA</text>
       </navLabel>
-      <content src="20171118-e_split_021.html"/>
-      <navPoint id="utZYgqohQUUKGOC2bG6iJQ5" playOrder="26">
-        <navLabel>
-          <text>Kissy Suzuki</text>
-        </navLabel>
-        <content src="20171118-e_split_021.html#calibre_toc_35"/>
-      </navPoint>
+      <content src="text/part0012.html"/>
     </navPoint>
-    <navPoint id="upIW8TdlmprdcGO4YT4JEEF" playOrder="27">
+    <navPoint class="chapter" id="a517d326-eb44-4ed2-8f1c-cd1829fe5fd7" playOrder="14">
       <navLabel>
-        <text>14</text>
+        <text>5 | MAGIC</text>
       </navLabel>
-      <content src="20171118-e_split_022.html"/>
-      <navPoint id="u7WDptbbx3HoJ33vsDEb4s2" playOrder="28">
-        <navLabel>
-          <text>One Golden Day</text>
-        </navLabel>
-        <content src="20171118-e_split_022.html#calibre_toc_36"/>
-      </navPoint>
+      <content src="text/part0013.html"/>
     </navPoint>
-    <navPoint id="uMZFC9uRaPKjvqmgA5UOoB8" playOrder="29">
+    <navPoint class="chapter" id="09dc5c11-8820-4a84-910c-5069e5f62396" playOrder="15">
       <navLabel>
-        <text>15</text>
+        <text>6 | TIGER, TIGER!</text>
       </navLabel>
-      <content src="20171118-e_split_023.html"/>
-      <navPoint id="uhxOTwGIhNgTO5K2VaMlwPC" playOrder="30">
-        <navLabel>
-          <text>The Six Guardians</text>
-        </navLabel>
-        <content src="20171118-e_split_023.html#calibre_toc_37"/>
-      </navPoint>
+      <content src="text/part0014.html"/>
     </navPoint>
-    <navPoint id="ulWaKWK84jIGHUB8kvJY3M5" playOrder="31">
+    <navPoint class="chapter" id="c7361cec-2fe5-4752-a279-a188b218d5c2" playOrder="16">
       <navLabel>
-        <text>16</text>
+        <text>7 | THE DEATH COLLECTOR</text>
       </navLabel>
-      <content src="20171118-e_split_024.html"/>
-      <navPoint id="uckIhDpKKvUJh5i2Tr93CWB" playOrder="32">
-        <navLabel>
-          <text>The Lovesome Spot</text>
-        </navLabel>
-        <content src="20171118-e_split_024.html#calibre_toc_38"/>
-      </navPoint>
+      <content src="text/part0015.html"/>
     </navPoint>
-    <navPoint id="uJRphbcOuz9NQigA4Jr9qA6" playOrder="33">
+    <navPoint class="chapter" id="e4d73b2b-f166-4519-b8e2-026482132551" playOrder="17">
       <navLabel>
-        <text>17</text>
+        <text>8 | SLAY IT WITH FLOWERS</text>
       </navLabel>
-      <content src="20171118-e_split_025.html"/>
-      <navPoint id="uq73nc4auhhDBuXa47TdNO7" playOrder="34">
-        <navLabel>
-          <text>Something Evil Comes This Way</text>
-        </navLabel>
-        <content src="20171118-e_split_025.html#calibre_toc_39"/>
-      </navPoint>
+      <content src="text/part0016.html"/>
     </navPoint>
-    <navPoint id="uItPsRNCyuqd9FISM9r5Uy3" playOrder="35">
+    <navPoint class="chapter" id="d54ea599-cafc-46e1-9d92-ac23227c176e" playOrder="18">
       <navLabel>
-        <text>18</text>
+        <text>9 | INSTANT JAPAN</text>
       </navLabel>
-      <content src="20171118-e_split_026.html"/>
-      <navPoint id="usxJZjF8KBZd7gCI9EC8EX4" playOrder="36">
-        <navLabel>
-          <text>Oubliette</text>
-        </navLabel>
-        <content src="20171118-e_split_026.html#calibre_toc_40"/>
-      </navPoint>
+      <content src="text/part0017.html"/>
     </navPoint>
-    <navPoint id="um8AUR6DlgdYoUDmT8SXsnF" playOrder="37">
+    <navPoint class="chapter" id="31b3465d-508a-44cc-b169-0ed4c15ea8c5" playOrder="19">
       <navLabel>
-        <text>19</text>
+        <text>10 | ADVANCED STUDIES</text>
       </navLabel>
-      <content src="20171118-e_split_027.html"/>
-      <navPoint id="u6Ardu7tOlxeP2Y2c9IulE4" playOrder="38">
-        <navLabel>
-          <text>The Question Room</text>
-        </navLabel>
-        <content src="20171118-e_split_027.html#calibre_toc_41"/>
-      </navPoint>
+      <content src="text/part0018.html"/>
     </navPoint>
-    <navPoint id="ulk2URxl6d8jup3DMoLOsx3" playOrder="39">
+    <navPoint class="chapter" id="c047f276-9388-42ae-82da-5e5a8b24fa50" playOrder="20">
       <navLabel>
-        <text>20</text>
+        <text>11 | ANATOMY CLASS</text>
       </navLabel>
-      <content src="20171118-e_split_028.html"/>
-      <navPoint id="uNFmQsJkO6USEeIW2noBuTH" playOrder="40">
-        <navLabel>
-          <text>Blood and Thunder</text>
-        </navLabel>
-        <content src="20171118-e_split_028.html#calibre_toc_42"/>
-      </navPoint>
+      <content src="text/part0019.html"/>
     </navPoint>
-    <navPoint id="udhNDjGGugIB9tiBlUY3viC" playOrder="41">
+    <navPoint class="chapter" id="778c7c5c-8519-4b60-85a0-f175929819dd" playOrder="21">
       <navLabel>
-        <text>21</text>
+        <text>PART TWO | … THAN TO ARRIVE’</text>
       </navLabel>
-      <content src="20171118-e_split_029.html"/>
-      <navPoint id="uTiyuDgzguSdTobdWbSbbk3" playOrder="42">
-        <navLabel>
-          <text>Obit</text>
-        </navLabel>
-        <content src="20171118-e_split_029.html#calibre_toc_43"/>
-      </navPoint>
+      <content src="text/part0020.html"/>
     </navPoint>
-    <navPoint id="uaJ6XJiZjv84pQV2ryTbIcE" playOrder="43">
+    <navPoint class="chapter" id="f3ed4832-950d-416a-b5e4-cad558839e45" playOrder="22">
       <navLabel>
-        <text>22</text>
+        <text>12 | APPOINTMENT IN SAMARA</text>
       </navLabel>
-      <content src="20171118-e_split_030.html"/>
-      <navPoint id="uqY3YNT6rlqt2mxmQ8MMYB5" playOrder="44">
-        <navLabel>
-          <text>Sparrows’ Tears</text>
-        </navLabel>
-        <content src="20171118-e_split_030.html#calibre_toc_44"/>
-      </navPoint>
+      <content src="text/part0021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b4cce3dd-ec9a-4593-8083-e7f3c8d4f8a7" playOrder="23">
+      <navLabel>
+        <text>13 | KISSY SUZUKI</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="2334345f-2609-4a85-adf3-b0cf79d2a65a" playOrder="24">
+      <navLabel>
+        <text>14 | ONE GOLDEN DAY</text>
+      </navLabel>
+      <content src="text/part0023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="213afdf0-a940-4d32-9d3f-4f06aacc2585" playOrder="25">
+      <navLabel>
+        <text>15 | THE SIX GUARDIANS</text>
+      </navLabel>
+      <content src="text/part0024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="446a1d56-d8eb-4235-9d41-dd9aceff2be5" playOrder="26">
+      <navLabel>
+        <text>16 | THE LOVESOME SPOT</text>
+      </navLabel>
+      <content src="text/part0025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b5746376-c255-474c-9124-bb499a43542a" playOrder="27">
+      <navLabel>
+        <text>17 | SOMETHING EVIL COMES THIS WAY</text>
+      </navLabel>
+      <content src="text/part0026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5c394a74-5e1d-475e-ae63-8733ff9ba64c" playOrder="28">
+      <navLabel>
+        <text>18 | OUBLIETTE</text>
+      </navLabel>
+      <content src="text/part0027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4c4e9ff7-676e-466f-a16e-0fb1f75cbdd0" playOrder="29">
+      <navLabel>
+        <text>19 | THE QUESTION ROOM</text>
+      </navLabel>
+      <content src="text/part0028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="35cb216b-678a-404f-b7ab-4382ec146b08" playOrder="30">
+      <navLabel>
+        <text>20 | BLOOD AND THUNDER</text>
+      </navLabel>
+      <content src="text/part0029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="baea85c8-16ab-465d-a698-1a36b0b86aa9" playOrder="31">
+      <navLabel>
+        <text>21 | OBIT:</text>
+      </navLabel>
+      <content src="text/part0030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="299dd80c-6c41-4b93-af89-82b2d2203c26" playOrder="32">
+      <navLabel>
+        <text>22 | SPARROWS’ TEARS</text>
+      </navLabel>
+      <content src="text/part0031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="45408f01-bb42-4145-ab55-d28e1fb83566" playOrder="33">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0032.html"/>
     </navPoint>
   </navMap>
 </ncx>

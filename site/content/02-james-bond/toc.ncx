@@ -1,165 +1,195 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="c6a4bf63-0f18-41bd-92a2-ff6eff38233c"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="e2d24cb7-5964-46da-94c5-b21a7374081c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Live and Let Die</text>
+    <text>02 Live and Let Die</text>
   </docTitle>
   <navMap>
-    <navPoint id="uE4BxCnPPZPdrHNuD4SHSI8" playOrder="1">
+    <navPoint class="chapter" id="a815c578-9ef5-42d8-bf04-77c6a3e8b830" playOrder="1">
       <navLabel>
-        <text>Contents</text>
+        <text>PRAISE FOR IAN FLEMING AND LIVE AND LET DIE</text>
       </navLabel>
-      <content src="20151111-e_split_002.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="uTgHqRYlnPMJpCPu4Sdpjm6" playOrder="2">
+    <navPoint class="chapter" id="a08011fc-c6c0-4b1f-af05-ca8f8652918d" playOrder="2">
       <navLabel>
-        <text>1. The Red Carpet</text>
+        <text>THE JAMES BOND BOOKS</text>
       </navLabel>
-      <content src="20151111-e_split_003.html#calibre_toc_2"/>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="uXTrOxOPpVSKQkmIPJFMa88" playOrder="3">
+    <navPoint class="chapter" id="eed0b337-9f05-436c-ac1a-28b11fa8be65" playOrder="3">
       <navLabel>
-        <text>2. Interview with M</text>
+        <text>HALF TITLE</text>
       </navLabel>
-      <content src="20151111-e_split_004.html"/>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="uAappwWpZxgw7QGvzChKVl6" playOrder="4">
+    <navPoint class="chapter" id="ca46ed65-e099-4028-93c8-73820955bebc" playOrder="4">
       <navLabel>
-        <text>3. A Visiting-Card</text>
+        <text>COPYRIGHT</text>
       </navLabel>
-      <content src="20151111-e_split_005.html"/>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uzDijTyrPL5jEcB6p2VZi39" playOrder="5">
+    <navPoint class="chapter" id="5480f340-0aee-43fd-be5d-db7bcdd0d679" playOrder="5">
       <navLabel>
-        <text>4. The Big Switchboard</text>
+        <text>TITLE</text>
       </navLabel>
-      <content src="20151111-e_split_006.html"/>
+      <content src="text/part0004.html"/>
     </navPoint>
-    <navPoint id="u42N9eeqQCOasZ4ljcO8v4C" playOrder="6">
+    <navPoint class="chapter" id="5c856ca6-8ec9-4fe8-a51d-458c465396aa" playOrder="6">
       <navLabel>
-        <text>5. Nigger Heaven</text>
+        <text>CONTENTS</text>
       </navLabel>
-      <content src="20151111-e_split_007.html"/>
+      <content src="text/part0005_split_000.html"/>
     </navPoint>
-    <navPoint id="u5mTYQX2O5ymSsev2DmZ24H" playOrder="7">
+    <navPoint class="chapter" id="261ea711-7d70-47c9-a82f-67f3c370e2ed" playOrder="7">
       <navLabel>
-        <text>6. Table Z</text>
+        <text>1 | THE RED CARPET</text>
       </navLabel>
-      <content src="20151111-e_split_008.html"/>
+      <content src="text/part0006.html"/>
     </navPoint>
-    <navPoint id="ujYl2bJw3362bQi6AnBy9d6" playOrder="8">
+    <navPoint class="chapter" id="b8b96f05-7ee3-4572-a672-0cb4264659c0" playOrder="8">
       <navLabel>
-        <text>7. Mister Big</text>
+        <text>2 | INTERVIEW WITH M.</text>
       </navLabel>
-      <content src="20151111-e_split_009.html"/>
+      <content src="text/part0007.html"/>
     </navPoint>
-    <navPoint id="ulDDNpR77GjI7SXApzqE7b2" playOrder="9">
+    <navPoint class="chapter" id="a4ccabcd-0654-4628-b8f9-5c97181f548d" playOrder="9">
       <navLabel>
-        <text>8. No Sensayuma</text>
+        <text>3 | A VISITING CARD</text>
       </navLabel>
-      <content src="20151111-e_split_010.html"/>
+      <content src="text/part0008.html"/>
     </navPoint>
-    <navPoint id="ujJdtCNFvOUdYKzGbYCplrC" playOrder="10">
+    <navPoint class="chapter" id="ef6bd30f-3bb1-45df-aad3-afc57ae90210" playOrder="10">
       <navLabel>
-        <text>9. True or False?</text>
+        <text>4 | THE BIG SWITCHBOARD</text>
       </navLabel>
-      <content src="20151111-e_split_011.html"/>
+      <content src="text/part0009.html"/>
     </navPoint>
-    <navPoint id="u3HjWwSMAWIH8JUYZWP2I58" playOrder="11">
+    <navPoint class="chapter" id="b667e0ef-4112-45d9-9210-45a7006f0e45" playOrder="11">
       <navLabel>
-        <text>10. The Silver Phantom</text>
+        <text>5 | NIGGER HEAVEN</text>
       </navLabel>
-      <content src="20151111-e_split_012.html"/>
+      <content src="text/part0010.html"/>
     </navPoint>
-    <navPoint id="udL3rhOzElWrOFnUUysTJQ9" playOrder="12">
+    <navPoint class="chapter" id="a54b00c5-1d4b-4dfe-a96f-1a0f6903d49a" playOrder="12">
       <navLabel>
-        <text>11. Allumeuse</text>
+        <text>6 | TABLE Z</text>
       </navLabel>
-      <content src="20151111-e_split_013.html"/>
+      <content src="text/part0011.html"/>
     </navPoint>
-    <navPoint id="ueuAJYwMCwQnnwk75eksuIB" playOrder="13">
+    <navPoint class="chapter" id="599ae6dc-2bbb-4581-a9ac-09ca6731a868" playOrder="13">
       <navLabel>
-        <text>12. The Everglades</text>
+        <text>7 | MISTER BIG</text>
       </navLabel>
-      <content src="20151111-e_split_014.html"/>
+      <content src="text/part0012.html"/>
     </navPoint>
-    <navPoint id="ufzGMwpBC8njmYVBc9ndPN5" playOrder="14">
+    <navPoint class="chapter" id="49fd4493-7c69-415d-b153-d808d8fcbbb8" playOrder="14">
       <navLabel>
-        <text>13. Death of a Pelican</text>
+        <text>8 | NO SENSAYUMA</text>
       </navLabel>
-      <content src="20151111-e_split_015.html"/>
+      <content src="text/part0013.html"/>
     </navPoint>
-    <navPoint id="uPdUnoTg7r2GN9bd3kPLzOE" playOrder="15">
+    <navPoint class="chapter" id="ea381dd2-aa60-47f4-b641-8b1c7b77d5a5" playOrder="15">
       <navLabel>
-        <text>14. ‘He Disagreed with Something that Ate Him’</text>
+        <text>9 | TRUE OR FALSE?</text>
       </navLabel>
-      <content src="20151111-e_split_016.html"/>
+      <content src="text/part0014.html"/>
     </navPoint>
-    <navPoint id="uhFGqJGETonx8dH9eq3gssC" playOrder="16">
+    <navPoint class="chapter" id="f5aa48db-761c-43b2-b0b6-a2433a155455" playOrder="16">
       <navLabel>
-        <text>15. Midnight Among the Worms</text>
+        <text>10 | THE SILVER PHANTOM</text>
       </navLabel>
-      <content src="20151111-e_split_017.html"/>
+      <content src="text/part0015.html"/>
     </navPoint>
-    <navPoint id="uQyws26X7vTzKnbNpOapZ44" playOrder="17">
+    <navPoint class="chapter" id="19ef9e1d-4e06-4b42-9f4a-6ccbf3883eea" playOrder="17">
       <navLabel>
-        <text>16. The Jamaica Version</text>
+        <text>11 | ALLUMEUSE</text>
       </navLabel>
-      <content src="20151111-e_split_018.html"/>
+      <content src="text/part0016.html"/>
     </navPoint>
-    <navPoint id="uzq6ZU8uHmoN2pIPJPkXfv9" playOrder="18">
+    <navPoint class="chapter" id="2e3124ca-a354-4aed-bcf7-dac64a7a1099" playOrder="18">
       <navLabel>
-        <text>17. The Undertaker’s Wind</text>
+        <text>12 | THE EVERGLADES</text>
       </navLabel>
-      <content src="20151111-e_split_019.html"/>
+      <content src="text/part0017.html"/>
     </navPoint>
-    <navPoint id="uBielxVoFgO9uHCqquJgzsD" playOrder="19">
+    <navPoint class="chapter" id="2c598184-c229-458d-b318-06d52cbbe4fc" playOrder="19">
       <navLabel>
-        <text>18. Beau Desert</text>
+        <text>13 | DEATH OF A PELICAN</text>
       </navLabel>
-      <content src="20151111-e_split_020.html"/>
+      <content src="text/part0018.html"/>
     </navPoint>
-    <navPoint id="uqaDHBD2bexMFsQvkV5KTD2" playOrder="20">
+    <navPoint class="chapter" id="84e1af08-949d-4e34-bea2-fd74c13d0b55" playOrder="20">
       <navLabel>
-        <text>19. Valley of Shadows</text>
+        <text>14 | ‘HE DISAGREED WITH SOMETHING THAT ATE HIM’</text>
       </navLabel>
-      <content src="20151111-e_split_021.html"/>
+      <content src="text/part0019.html"/>
     </navPoint>
-    <navPoint id="usCu2yOYv6lNujQKVyNd3eF" playOrder="21">
+    <navPoint class="chapter" id="bed05477-42c3-42d7-9b30-d83a4f26a574" playOrder="21">
       <navLabel>
-        <text>20. Bloody Morgan’s Cave</text>
+        <text>15 | MIDNIGHT AMONG THE WORMS</text>
       </navLabel>
-      <content src="20151111-e_split_022.html"/>
+      <content src="text/part0020.html"/>
     </navPoint>
-    <navPoint id="uGR5ybguCNkatHbjX9IFxhF" playOrder="22">
+    <navPoint class="chapter" id="f49aceb4-0061-46fe-8961-fcc42a1a7256" playOrder="22">
       <navLabel>
-        <text>21. ‘Good Night to You Both’</text>
+        <text>16 | THE JAMAICA VERSION</text>
       </navLabel>
-      <content src="20151111-e_split_023.html"/>
+      <content src="text/part0021.html"/>
     </navPoint>
-    <navPoint id="uByEidpTbu2Mp5GK6eHLIA5" playOrder="23">
+    <navPoint class="chapter" id="92bf4a9a-ae10-4a9e-a343-d8c988e2ce03" playOrder="23">
       <navLabel>
-        <text>22. Terror by Sea</text>
+        <text>17 | THE UNDERTAKER’S WIND</text>
       </navLabel>
-      <content src="20151111-e_split_024.html"/>
+      <content src="text/part0022.html"/>
     </navPoint>
-    <navPoint id="uayhXXPG5g7f39GGx2fYPF4" playOrder="24">
+    <navPoint class="chapter" id="4ddd413c-0599-4be7-bcfc-66cc56a4c5b4" playOrder="24">
       <navLabel>
-        <text>23. Passionate Leave</text>
+        <text>18 | BEAU DESERT</text>
       </navLabel>
-      <content src="20151111-e_split_025.html"/>
+      <content src="text/part0023.html"/>
     </navPoint>
-    <navPoint id="umikZZ5YHhP3ikKLd59brLC" playOrder="25">
+    <navPoint class="chapter" id="cbead0ea-3c4e-4316-9e17-a25181a36365" playOrder="25">
       <navLabel>
-        <text>TRANSCRIBER NOTES</text>
+        <text>19 | VALLEY OF SHADOWS</text>
       </navLabel>
-      <content src="20151111-e_split_026.html"/>
+      <content src="text/part0024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6e5f85b0-7aa9-4c66-8b5e-ab8058d3aa07" playOrder="26">
+      <navLabel>
+        <text>20 | BLOODY MORGAN’S CAVE</text>
+      </navLabel>
+      <content src="text/part0025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ff3edd6e-4215-4fa3-86fd-85fdf7de93ec" playOrder="27">
+      <navLabel>
+        <text>21 | ‘GOOD NIGHT TO YOU BOTH’</text>
+      </navLabel>
+      <content src="text/part0026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d597d5a2-c586-435d-86ba-8d0256a25871" playOrder="28">
+      <navLabel>
+        <text>22 | TERROR BY SEA</text>
+      </navLabel>
+      <content src="text/part0027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="61d8f41e-04b1-4fab-89ad-9b8c845fdfd5" playOrder="29">
+      <navLabel>
+        <text>23 | PASSIONATE LEAVE</text>
+      </navLabel>
+      <content src="text/part0028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1b6f0e5f-6287-4114-a697-839b99019bf2" playOrder="30">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0029.html"/>
     </navPoint>
   </navMap>
 </ncx>

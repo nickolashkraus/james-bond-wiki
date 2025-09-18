@@ -1,135 +1,177 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="c5e52c54-3d5a-4c8e-b8d7-87bdff0db1fd"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="8bba64dd-41a6-4964-a892-2aa09f4a6b46" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Dr. No</text>
+    <text>06 Dr. No</text>
   </docTitle>
   <navMap>
-    <navPoint id="ur89SusC7J6s4Dmp6BJ28iE" playOrder="1">
+    <navPoint class="chapter" id="c597afac-e5bd-4cb4-81b1-836d1dd98613" playOrder="1">
       <navLabel>
-        <text>I HEAR YOU LOUD AND CLEAR</text>
+        <text>Praise for Ian Fleming and Dr No</text>
       </navLabel>
-      <content src="20170725-e_split_003.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="uyt6CFLljhGTVi2Xh9oKcW4" playOrder="2">
+    <navPoint class="chapter" id="55f43fe6-fbfb-4dd9-b43d-e12488cbc769" playOrder="2">
       <navLabel>
-        <text>II CHOICE OF WEAPONS</text>
+        <text>The James Bond Books</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_2"/>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="upC83zriItZMdTfiiywE6VB" playOrder="3">
+    <navPoint class="chapter" id="31d67b73-3036-4a7a-b1f6-56eefabdb58d" playOrder="3">
       <navLabel>
-        <text>III HOLIDAY TASK</text>
+        <text>Half Title</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_3"/>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="uPJzZOr3IOMpCZ7wTUvsqd7" playOrder="4">
+    <navPoint class="chapter" id="fe726387-b0fc-4a14-b2e6-75162397eff5" playOrder="4">
       <navLabel>
-        <text>IV RECEPTION COMMITTEE</text>
+        <text>Copyright</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_4"/>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uMwLlfhOA3eJYRqp8K4lB58" playOrder="5">
+    <navPoint class="chapter" id="1551adaa-c3ec-464c-9e32-b66526e34e82" playOrder="5">
       <navLabel>
-        <text>V FACTS AND FIGURES</text>
+        <text>Title</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_5"/>
+      <content src="text/part0004.html"/>
     </navPoint>
-    <navPoint id="umLCXN7tQB6KbAdekJuem99" playOrder="6">
+    <navPoint class="chapter" id="20e17b94-1766-47f4-892c-be0b933709aa" playOrder="6">
       <navLabel>
-        <text>VI THE FINGER ON THE TRIGGER</text>
+        <text>Contents</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_6"/>
+      <content src="text/part0005.html"/>
     </navPoint>
-    <navPoint id="uHW7RATwjhZ3cqoxCMLMdt7" playOrder="7">
+    <navPoint class="chapter" id="f8b33ff5-d81b-41c7-8248-f83ab9b983af" playOrder="7">
       <navLabel>
-        <text>VII NIGHT PASSAGE</text>
+        <text>1 | Hear You Loud and Clear</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_7"/>
+      <content src="text/part0006.html"/>
     </navPoint>
-    <navPoint id="uOLiLEr5H6nnWKEfAO5uT92" playOrder="8">
+    <navPoint class="chapter" id="f1e6e882-3e94-4bd6-a1e4-77cef8a2acf2" playOrder="8">
       <navLabel>
-        <text>VIII THE ELEGANT VENUS</text>
+        <text>2 | Choice of Weapons</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_8"/>
+      <content src="text/part0007.html"/>
     </navPoint>
-    <navPoint id="uR5W9Eyaunse76WXF3JsxL8" playOrder="9">
+    <navPoint class="chapter" id="af5aaf2c-487b-4057-b828-48e7e55981d5" playOrder="9">
       <navLabel>
-        <text>IX CLOSE SHAVES</text>
+        <text>3 | Holiday Task</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_9"/>
+      <content src="text/part0008.html"/>
     </navPoint>
-    <navPoint id="uWINYaPGxQNOG3giUfmEikC" playOrder="10">
+    <navPoint class="chapter" id="aa1b0345-d519-47ec-9a73-16c40708e9f1" playOrder="10">
       <navLabel>
-        <text>X DRAGON SPOOR</text>
+        <text>4 | Reception Committee</text>
       </navLabel>
-      <content src="20170725-e_split_003.html#calibre_toc_10"/>
+      <content src="text/part0009.html"/>
     </navPoint>
-    <navPoint id="ujWfiY4VjgWapZUUxkAans2" playOrder="11">
+    <navPoint class="chapter" id="0adbba74-6e7c-46dd-82c5-c54a670fcd42" playOrder="11">
       <navLabel>
-        <text>XI AMIDST THE ALIEN CANE</text>
+        <text>5 | Facts and Figures</text>
       </navLabel>
-      <content src="20170725-e_split_004.html"/>
+      <content src="text/part0010.html"/>
     </navPoint>
-    <navPoint id="u9JyqdaafOrjliRfrPHBJE8" playOrder="12">
+    <navPoint class="chapter" id="dc39fb2f-c21f-4e0c-8bb0-1c9f6cb3443c" playOrder="12">
       <navLabel>
-        <text>XII THE THING</text>
+        <text>6 | The Finger on the Trigger</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_12"/>
+      <content src="text/part0011.html"/>
     </navPoint>
-    <navPoint id="udJj6vmVM3whDxT9SZZpkUG" playOrder="13">
+    <navPoint class="chapter" id="91a3512f-e08a-4cc3-a601-7302b1c02aae" playOrder="13">
       <navLabel>
-        <text>XIII MINK-LINED PRISON</text>
+        <text>7 | Night Passage</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_13"/>
+      <content src="text/part0012.html"/>
     </navPoint>
-    <navPoint id="u9VdizUd6EtqNTFmQUTfcZC" playOrder="14">
+    <navPoint class="chapter" id="9858e704-9615-4dce-acb4-9c789db25a4e" playOrder="14">
       <navLabel>
-        <text>XIV COME INTO MY PARLOUR</text>
+        <text>8 | The Elegant Venus</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_14"/>
+      <content src="text/part0013.html"/>
     </navPoint>
-    <navPoint id="uaYDjZiEFxZH8b9p4WtyivC" playOrder="15">
+    <navPoint class="chapter" id="d00e425a-9d43-4a8a-ad5d-5ade71adab08" playOrder="15">
       <navLabel>
-        <text>XV PANDORA’S BOX</text>
+        <text>9 | Close Shaves</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_15"/>
+      <content src="text/part0014.html"/>
     </navPoint>
-    <navPoint id="uByAtLJvAOwQgtFv62T5guG" playOrder="16">
+    <navPoint class="chapter" id="00044954-3f5e-4c48-8245-8437d51e266a" playOrder="16">
       <navLabel>
-        <text>XVI HORIZONS OF AGONY</text>
+        <text>10 | Dragon Spoor</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_16"/>
+      <content src="text/part0015.html"/>
     </navPoint>
-    <navPoint id="uN2GqAyjsDNRQ7SLYgxJhWE" playOrder="17">
+    <navPoint class="chapter" id="7ac985c6-ad14-4365-a721-2ce4bfa4bd84" playOrder="17">
       <navLabel>
-        <text>XVII THE LONG SCREAM</text>
+        <text>11 | Amidst the Alien Cane</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_17"/>
+      <content src="text/part0016.html"/>
     </navPoint>
-    <navPoint id="uOfeIY3j8RjHYIoJ5pHtfx2" playOrder="18">
+    <navPoint class="chapter" id="5728a916-9688-4172-961e-b4fbd34bb6f9" playOrder="18">
       <navLabel>
-        <text>XVIII KILLING GROUND</text>
+        <text>12 | The Thing</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_18"/>
+      <content src="text/part0017.html"/>
     </navPoint>
-    <navPoint id="ukIBPwimhrFLGQLDWhVZw6C" playOrder="19">
+    <navPoint class="chapter" id="1e17e4f9-81d6-43e4-a74b-b096353d5763" playOrder="19">
       <navLabel>
-        <text>XIX A SHOWER OF DEATH</text>
+        <text>13 | Mink-Lined Prison</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_19"/>
+      <content src="text/part0018.html"/>
     </navPoint>
-    <navPoint id="uUUSHXBXGivvVWL2yggnun6" playOrder="20">
+    <navPoint class="chapter" id="27a9ee00-5ba6-4232-ab76-6813f8e51b38" playOrder="20">
       <navLabel>
-        <text>XX SLAVE-TIME</text>
+        <text>14 | Come into my parlour</text>
       </navLabel>
-      <content src="20170725-e_split_004.html#calibre_toc_20"/>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="559c0446-f47e-4258-858d-e27dbff3145f" playOrder="21">
+      <navLabel>
+        <text>15 | Pandora’s Box</text>
+      </navLabel>
+      <content src="text/part0020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4ff79585-77d7-45c3-b537-3069c5afb5d4" playOrder="22">
+      <navLabel>
+        <text>16 | Horizons of Agony</text>
+      </navLabel>
+      <content src="text/part0021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="24c231e5-47e0-4019-b666-c173c8408315" playOrder="23">
+      <navLabel>
+        <text>17 | The Long Scream</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7532b979-2320-46d1-861a-826297892569" playOrder="24">
+      <navLabel>
+        <text>18 | Killing Ground</text>
+      </navLabel>
+      <content src="text/part0023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c39cd35e-02ce-48bf-b44a-da3e4eff65b0" playOrder="25">
+      <navLabel>
+        <text>19 | A shower of death</text>
+      </navLabel>
+      <content src="text/part0024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b5629a23-6d33-4177-88c3-565acc801f38" playOrder="26">
+      <navLabel>
+        <text>20 | Slave-Time</text>
+      </navLabel>
+      <content src="text/part0025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b920812e-235a-4425-b7ec-ea7c17f5982c" playOrder="27">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="text/part0026.html"/>
     </navPoint>
   </navMap>
 </ncx>

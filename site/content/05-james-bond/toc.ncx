@@ -1,213 +1,243 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="138a4b43-4b4d-4886-bac5-3c39e97bcdef"/>
-    <meta name="dtb:depth" content="3"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="b35f45c6-b172-48e2-ac05-187b7819826c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>From Russia With Love</text>
+    <text>05 From Russia With Love</text>
   </docTitle>
   <navMap>
-    <navPoint id="uUMLEpOBvyIZFoM3SGOnpTF" playOrder="1">
+    <navPoint class="chapter" id="63235352-89ba-46fc-b6e8-96851dc2042b" playOrder="1">
       <navLabel>
-        <text>Author’s Note</text>
+        <text>PRAISE FOR IAN FLEMING AND FROM RUSSIA WITH LOVE</text>
       </navLabel>
-      <content src="20160104-e_split_002.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="uerHYfJdX7DjCrDxe44jypC" playOrder="2">
+    <navPoint class="chapter" id="55cf9066-c566-49e5-aec4-21df833a36bf" playOrder="2">
       <navLabel>
-        <text>Contents</text>
+        <text>THE JAMES BOND BOOKS</text>
       </navLabel>
-      <content src="20160104-e_split_003.html"/>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="uDoU6MHXUEvFlrMT4jbIdb3" playOrder="3">
+    <navPoint class="chapter" id="ccc1899f-76b5-477d-b873-51dbde72f0a4" playOrder="3">
       <navLabel>
-        <text>PART ONE The Plan</text>
+        <text>Half Title</text>
       </navLabel>
-      <content src="20160104-e_split_004.html"/>
-      <navPoint id="uaVPPXI9GGld2wegbraYNW9" playOrder="4">
-        <navLabel>
-          <text>1. Roseland</text>
-        </navLabel>
-        <content src="20160104-e_split_005.html"/>
-      </navPoint>
-      <navPoint id="uDSgcfcleBrUmVZnmmszwHB" playOrder="5">
-        <navLabel>
-          <text>2. The Slaughterer</text>
-        </navLabel>
-        <content src="20160104-e_split_006.html"/>
-      </navPoint>
-      <navPoint id="ubLRg5VuD9PlTycKwlrSiBC" playOrder="6">
-        <navLabel>
-          <text>3. Post-graduate Studies</text>
-        </navLabel>
-        <content src="20160104-e_split_007.html"/>
-      </navPoint>
-      <navPoint id="u2DaTgE2WAdVUs2Nb5pDnz6" playOrder="7">
-        <navLabel>
-          <text>4. The Moguls of Death</text>
-        </navLabel>
-        <content src="20160104-e_split_008.html"/>
-      </navPoint>
-      <navPoint id="uKhW6beVj6pUI9GpphAlkS9" playOrder="8">
-        <navLabel>
-          <text>5. Konspiratsia</text>
-        </navLabel>
-        <content src="20160104-e_split_009.html"/>
-      </navPoint>
-      <navPoint id="uAo6ZyzCd57X6d3NMUyWjv9" playOrder="9">
-        <navLabel>
-          <text>6. Death Warrant</text>
-        </navLabel>
-        <content src="20160104-e_split_010.html"/>
-      </navPoint>
-      <navPoint id="uyxQla3WmybMkwnrEJIRtXC" playOrder="10">
-        <navLabel>
-          <text>7. The Wizard of Ice</text>
-        </navLabel>
-        <content src="20160104-e_split_011.html"/>
-      </navPoint>
-      <navPoint id="uEdUDTUZ4M6xVLBJF2W6gfA" playOrder="11">
-        <navLabel>
-          <text>8. The Beautiful Lure</text>
-        </navLabel>
-        <content src="20160104-e_split_012.html"/>
-      </navPoint>
-      <navPoint id="uU4szVSxHVv2SO2CAim9527" playOrder="12">
-        <navLabel>
-          <text>9. A Labour of Love</text>
-        </navLabel>
-        <content src="20160104-e_split_013.html"/>
-      </navPoint>
-      <navPoint id="uxmiaaxGrH38JArLtAtxZT6" playOrder="13">
-        <navLabel>
-          <text>10. The Fuse Burns</text>
-        </navLabel>
-        <content src="20160104-e_split_014.html"/>
-      </navPoint>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="u5asecLqFhf5FCYrLIss2s9" playOrder="14">
+    <navPoint class="chapter" id="75aab6b5-8188-455f-a1bb-30b9dd630ef9" playOrder="5">
       <navLabel>
-        <text>PART TWO The Execution</text>
+        <text>Title</text>
       </navLabel>
-      <content src="20160104-e_split_015.html"/>
-      <navPoint id="uk6NHkuUt5mtqPnGq98L7Q8" playOrder="15">
-        <navLabel>
-          <text>11. The Soft Life</text>
-        </navLabel>
-        <content src="20160104-e_split_016.html"/>
-      </navPoint>
-      <navPoint id="uVC6ORkphnecD6jtSZysCpD" playOrder="16">
-        <navLabel>
-          <text>12. A Piece of Cake</text>
-        </navLabel>
-        <content src="20160104-e_split_017.html"/>
-      </navPoint>
-      <navPoint id="uxTEZaSAqaTvIv8wgbcmlQA" playOrder="17">
-        <navLabel>
-          <text>13. ‘BEA Takes You There . . .’</text>
-        </navLabel>
-        <content src="20160104-e_split_018.html"/>
-      </navPoint>
-      <navPoint id="uMieboaKsqH6Hd2moNAH6F9" playOrder="18">
-        <navLabel>
-          <text>14. Darko Kerim</text>
-        </navLabel>
-        <content src="20160104-e_split_019.html"/>
-      </navPoint>
-      <navPoint id="uVaEbLBKyh6KoYdE4bQOyrG" playOrder="19">
-        <navLabel>
-          <text>15. Background to a Spy</text>
-        </navLabel>
-        <content src="20160104-e_split_020.html"/>
-      </navPoint>
-      <navPoint id="uMXVPK7bxEydmnhwaHIb7Y4" playOrder="20">
-        <navLabel>
-          <text>16. The Tunnel of Rats</text>
-        </navLabel>
-        <content src="20160104-e_split_021.html"/>
-      </navPoint>
-      <navPoint id="uNl2m8tAxP8He3pnWYhYU29" playOrder="21">
-        <navLabel>
-          <text>17. Killing Time</text>
-        </navLabel>
-        <content src="20160104-e_split_022.html"/>
-      </navPoint>
-      <navPoint id="u3XcrRo2V3gzFy8zg4Yj6C7" playOrder="22">
-        <navLabel>
-          <text>18. Strong Sensations</text>
-        </navLabel>
-        <content src="20160104-e_split_023.html"/>
-      </navPoint>
-      <navPoint id="uL5n8ZiGxPWnYMOpQjPmBd2" playOrder="23">
-        <navLabel>
-          <text>19. The Mouth of Marilyn Monroe</text>
-        </navLabel>
-        <content src="20160104-e_split_024.html"/>
-      </navPoint>
-      <navPoint id="ufTWW9VFKx9OY2I53WQyRK4" playOrder="24">
-        <navLabel>
-          <text>20. Black on Pink</text>
-        </navLabel>
-        <content src="20160104-e_split_025.html"/>
-      </navPoint>
-      <navPoint id="u8GSIgpbYlRchGtYHwqwKuD" playOrder="25">
-        <navLabel>
-          <text>21. Orient Express</text>
-        </navLabel>
-        <content src="20160104-e_split_026.html"/>
-      </navPoint>
-      <navPoint id="uwn3Tbk6yUqw2Cii8m7iCZB" playOrder="26">
-        <navLabel>
-          <text>22. Out of Turkey</text>
-        </navLabel>
-        <content src="20160104-e_split_027.html"/>
-      </navPoint>
-      <navPoint id="uCgCLLtLIrPGpG6HRjCjVJ5" playOrder="27">
-        <navLabel>
-          <text>23. Out of Greece</text>
-        </navLabel>
-        <content src="20160104-e_split_028.html"/>
-      </navPoint>
-      <navPoint id="uOylMvWIeqIKkILWLB4aVz3" playOrder="28">
-        <navLabel>
-          <text>24. Out of Danger</text>
-        </navLabel>
-        <content src="20160104-e_split_029.html"/>
-      </navPoint>
-      <navPoint id="u8Ukn27nakJxcnIyIpCHyA8" playOrder="29">
-        <navLabel>
-          <text>25. A Tie with a Windsor Knot</text>
-        </navLabel>
-        <content src="20160104-e_split_030.html"/>
-      </navPoint>
-      <navPoint id="uoCwVXPAUsTRZV6NRFMCeQ2" playOrder="30">
-        <navLabel>
-          <text>26. The Killing Bottle</text>
-        </navLabel>
-        <content src="20160104-e_split_031.html"/>
-      </navPoint>
-      <navPoint id="uVGE46m5zv2YVRPv4CmoQQ8" playOrder="31">
-        <navLabel>
-          <text>27. Ten Pints of Blood</text>
-        </navLabel>
-        <content src="20160104-e_split_032.html"/>
-      </navPoint>
-      <navPoint id="uH5nBnje9D58k8U2wzWQj25" playOrder="32">
-        <navLabel>
-          <text>28. La Tricoteuse</text>
-        </navLabel>
-        <content src="20160104-e_split_033.html"/>
-      </navPoint>
+      <content src="text/part0004.html"/>
     </navPoint>
-    <navPoint id="uaGDyC9FNj9wmqhll5p6eQE" playOrder="33">
+    <navPoint class="chapter" id="b59cba99-7bd3-4568-a185-fbaa1d1c6ed4" playOrder="4">
       <navLabel>
-        <text>TRANSCRIBER NOTES</text>
+        <text>Copyright</text>
       </navLabel>
-      <content src="20160104-e_split_034.html"/>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="baecebd8-8ec4-4705-8a12-932d8b5d9acb" playOrder="6">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8ab3b204-785d-4f90-bb81-a4bd4fc764dd" playOrder="7">
+      <navLabel>
+        <text>AUTHOR'S NOTE</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="02ed3f17-5e9a-4bf3-a665-9a07405e7a45" playOrder="8">
+      <navLabel>
+        <text>PART ONE | THE PLAN</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="29e2d994-1d48-4ea9-a418-2779f26fa8ee" playOrder="9">
+      <navLabel>
+        <text>1 | ROSELAND</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9221f600-d9aa-4242-9711-966a36fe4ab8" playOrder="10">
+      <navLabel>
+        <text>2 | THE SLAUGHTERER</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="09845554-7c73-442f-9efe-9ded714fc4e9" playOrder="11">
+      <navLabel>
+        <text>3 | POST-GRADUATE STUDIES</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="eec0a551-0855-4c34-881f-85a3983bc50d" playOrder="12">
+      <navLabel>
+        <text>4 | THE MOGULS OF DEATH</text>
+      </navLabel>
+      <content src="text/part0011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="728db7e0-66f8-48c9-b656-3b4a68b05a41" playOrder="13">
+      <navLabel>
+        <text>5 | KONSPIRATSIA</text>
+      </navLabel>
+      <content src="text/part0012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="65418bea-e844-4f08-b6c3-f64a36aee53b" playOrder="14">
+      <navLabel>
+        <text>6 | DEATH WARRANT</text>
+      </navLabel>
+      <content src="text/part0013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="51311b46-b24b-4b24-9272-3aff1c2920f3" playOrder="15">
+      <navLabel>
+        <text>7 | THE WIZARD OF ICE</text>
+      </navLabel>
+      <content src="text/part0014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0c71a3ea-8009-41bd-8ce7-12c5e2429fc9" playOrder="16">
+      <navLabel>
+        <text>8 | THE BEAUTIFUL LURE</text>
+      </navLabel>
+      <content src="text/part0015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1f46f95f-09f0-4af3-8a87-4b8bc271a826" playOrder="17">
+      <navLabel>
+        <text>9 | A LABOUR OF LOVE</text>
+      </navLabel>
+      <content src="text/part0016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4f5da258-35a3-4fb0-9562-aff4c485e7f8" playOrder="18">
+      <navLabel>
+        <text>10 | THE FUSE BURNS</text>
+      </navLabel>
+      <content src="text/part0017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="41ff7da0-630d-46c6-8cdb-480d7ddebe05" playOrder="19">
+      <navLabel>
+        <text>PART TWO | THE EXECUTION</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="051890ff-6d2d-406d-a1f6-7421a79600e6" playOrder="20">
+      <navLabel>
+        <text>11 | THE SOFT LIFE</text>
+      </navLabel>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b189bbb0-3a61-46af-be08-7a3ef7756a8c" playOrder="21">
+      <navLabel>
+        <text>12 | A PIECE OF CAKE</text>
+      </navLabel>
+      <content src="text/part0020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f47e16d9-86ad-4669-a9de-faf575d0b096" playOrder="22">
+      <navLabel>
+        <text>13 | ‘B.E.A. TAKES YOU THERE …’</text>
+      </navLabel>
+      <content src="text/part0021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="990d4594-e4a4-4c7c-90f6-d9f92e0ced61" playOrder="23">
+      <navLabel>
+        <text>14 | DARKO KERIM</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6e7f3305-22d0-4aea-b783-d9b1866ecb0e" playOrder="24">
+      <navLabel>
+        <text>15 | BACKGROUND TO A SPY</text>
+      </navLabel>
+      <content src="text/part0023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7dbc1f1d-48da-4968-9d4c-948c274f0c19" playOrder="25">
+      <navLabel>
+        <text>16 | THE TUNNEL OF RATS</text>
+      </navLabel>
+      <content src="text/part0024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="adcfd413-6f5e-4380-81e2-de000c231b4e" playOrder="26">
+      <navLabel>
+        <text>17 | KILLING TIME</text>
+      </navLabel>
+      <content src="text/part0025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="061517ae-8c4d-4a5a-a76e-079fbb1b9eae" playOrder="27">
+      <navLabel>
+        <text>18 | STRONG SENSATIONS</text>
+      </navLabel>
+      <content src="text/part0026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="2668404b-8223-4a07-9663-b330a4a84530" playOrder="28">
+      <navLabel>
+        <text>19 | THE MOUTH OF MARILYN MONROE</text>
+      </navLabel>
+      <content src="text/part0027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="97469831-9ef1-44a1-b324-622d93b9d836" playOrder="29">
+      <navLabel>
+        <text>20 | BLACK ON PINK</text>
+      </navLabel>
+      <content src="text/part0028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8ae08b90-f88c-4380-b43b-643264a15223" playOrder="30">
+      <navLabel>
+        <text>21 | ORIENT EXPRESS</text>
+      </navLabel>
+      <content src="text/part0029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="92a3dd45-2c11-448c-8857-2986df237788" playOrder="31">
+      <navLabel>
+        <text>22 | OUT OF TURKEY</text>
+      </navLabel>
+      <content src="text/part0030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ff743eb5-bdfb-4103-9858-19898ad26ce8" playOrder="32">
+      <navLabel>
+        <text>23 | OUT OF GREECE</text>
+      </navLabel>
+      <content src="text/part0031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="34598dc1-2329-4403-884b-3711f62c2c70" playOrder="33">
+      <navLabel>
+        <text>24 | OUT OF DANGER?</text>
+      </navLabel>
+      <content src="text/part0032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5d9d0719-ec4c-4283-843b-c0a9021a2432" playOrder="34">
+      <navLabel>
+        <text>25 | A TIE WITH A WINDSOR KNOT</text>
+      </navLabel>
+      <content src="text/part0033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="cdc733be-1d73-48cf-bc68-faa7d1a93706" playOrder="35">
+      <navLabel>
+        <text>26 | THE KILLING BOTTLE</text>
+      </navLabel>
+      <content src="text/part0034.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="aca1c298-edef-42db-afed-ffb49cc65171" playOrder="36">
+      <navLabel>
+        <text>27 | TEN PINTS OF BLOOD</text>
+      </navLabel>
+      <content src="text/part0035.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ecb6acb3-051c-4411-aa96-04636a0493a3" playOrder="37">
+      <navLabel>
+        <text>28 | LA TRICOTEUSE</text>
+      </navLabel>
+      <content src="text/part0036.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6b74fabc-7b59-451a-9e78-43655c9d9338" playOrder="38">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0037.html"/>
     </navPoint>
   </navMap>
 </ncx>

@@ -1,0 +1,320 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.author {
+    display: block;
+    font-family: "HelveticaNeueLTStd-MdCn";
+    font-size: 1.29167em;
+    font-weight: lighter;
+    line-height: 1.2;
+    margin-bottom: -0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: center
+    }
+.blockquote {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0;
+    text-indent: 2.5
+    }
+.blockquote1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+    text-align: left
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    height: auto;
+    width: auto
+    }
+.calibre10 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre11 {
+    font-size: 1em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre12 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre13 {
+    height: 1px;
+    line-height: 1.2;
+    width: 223px
+    }
+.calibre14 {
+    height: 168px;
+    width: 139px
+    }
+.calibre15 {
+    height: 1px;
+    width: 149px
+    }
+.calibre2 {
+    font-weight: bold
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    height: auto;
+    line-height: 1.2;
+    width: auto
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    height: 1px;
+    width: 111px
+    }
+.calibre7 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre8 {
+    border: 1px inset;
+    color: inherit;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.calibre9 {
+    display: block
+    }
+.cap {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: center
+    }
+.center {
+    color: inherit;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-align: center
+    }
+.center-ob {
+    display: block;
+    font-family: "HelveticaNeueLTStd-MdCn";
+    font-size: 1em;
+    margin-bottom: -0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.center1 {
+    color: inherit;
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.chapter {
+    display: block;
+    font-family: "HelveticaNeueLTStd-MdCn";
+    font-size: 1.29167em;
+    font-weight: lighter;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: left
+    }
+.chapter-toc {
+    display: block;
+    font-family: "MinionPro-Cn";
+    font-size: 1.29167em;
+    font-weight: lighter;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: center
+    }
+.copy {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-top: 1em
+    }
+.copyright {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.f {
+    font-family: "HelveticaNeueLTStd-CnO"
+    }
+.halftitle {
+    display: block;
+    font-weight: lighter;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 11em;
+    text-align: right
+    }
+.image {
+    color: inherit;
+    display: block;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: center
+    }
+.image1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.indent-para {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 1.5em
+    }
+.linespace {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: center
+    }
+.linespace1 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.link {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.para {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.part {
+    color: #a8a9ad;
+    display: block;
+    font-family: "HelveticaNeueLTStd-MdCn";
+    font-size: 1.66667em;
+    font-weight: lighter;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6em;
+    text-align: center
+    }
+.part1 {
+    display: block;
+    font-family: "HelveticaNeueLTStd-MdCn";
+    font-size: 1.66667em;
+    font-weight: lighter;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.praise {
+    display: block;
+    font-family: "HelveticaNeueLTStd-Cn";
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.smallcaps {
+    font-size: 0.75em
+    }
+.toc {
+    display: block;
+    font-family: "HelveticaNeueLTStd-Cn";
+    font-size: 1em;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: left
+    }
+.tocp {
+    display: block;
+    font-family: "HelveticaNeueLTStd-Cn";
+    font-size: 1em;
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }

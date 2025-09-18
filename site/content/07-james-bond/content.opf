@@ -1,44 +1,123 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
-  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
-    <dc:title>Goldfinger</dc:title>
-    <meta name="calibre:timestamp" content="2021-09-07T12:00:59.549316+00:00"/>
-    <dc:language>en</dc:language>
-    <dc:creator opf:file-as="Unknown" opf:role="aut">Fleming, Ian</dc:creator>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">d2422acc-9a7d-4d5d-8a2a-6351a40f5a8d</dc:identifier>
-    <dc:publisher>Distributed Proofreaders Canada</dc:publisher>
-    <dc:subject>adventure</dc:subject>
-    <dc:subject>fiction</dc:subject>
-    <dc:subject>Great Britain</dc:subject>
-    <dc:subject>James Bond (Fictional character)</dc:subject>
-    <dc:subject>intelligence service</dc:subject>
-    <dc:subject>spy stories</dc:subject>
-    <dc:subject>film/TV adaptation</dc:subject>
-    <dc:date>1959-09-15T05:00:00+00:00</dc:date>
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Fleming, Ian">Ian Fleming</dc:creator>
+<dc:publisher>AmazonEncore</dc:publisher>
+    <meta name="calibre:series_index" content="7.0"/>
+    <dc:description>&lt;div&gt;&lt;p&gt;Auric Goldfinger is the richest man in England—though his wealth can’t be found in banks. He’s been hoarding vast stockpiles of his namesake metal, and it’s attracted the suspicion of 007’s superiors at MI6. Sent to investigate, Bond uncovers an ingenious gold-smuggling scheme, as well as Goldfinger’s most daring caper yet: Operation Grand Slam, a gold heist so audacious it could bring down the world economy and put the fate of the West in the hands of SMERSH. To stop Goldfinger, Bond will have to survive a showdown with the sinister millionaire’s henchman, Oddjob, a tenacious karate master who can kill with one well-aimed toss of his razor-rimmed bowler hat.&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Ian Fleming was born in London on May 28, 1908. He was educated at Eton College and later spent a formative period studying languages in Europe. His first job was with Reuters News Agency where a Moscow posting gave him firsthand experience with what would become his literary &lt;em&gt;bete noire&lt;/em&gt;—the Soviet Union. During World War II he served as Assistant to the Director of Naval Intelligence and played a key role in Allied espionage operations. &lt;/p&gt;&lt;p&gt;After the war he worked as foreign manager of the &lt;em&gt;Sunday Times&lt;/em&gt;, a job that allowed him to spend two months each year in Jamaica. Here, in 1952, at his home “Goldeneye,” he wrote a book called &lt;em&gt;Casino Royale&lt;/em&gt;—and James Bond was born. The first print run sold out within a month. For the next twelve years Fleming produced a novel a year featuring Special Agent 007, the most famous spy of the century. His travels, interests, and wartime experience lent authority to everything he wrote. Raymond Chandler described him as “the most forceful and driving writer of thrillers in England.” Sales soared when President Kennedy named the fifth title, &lt;em&gt;From Russia With Love&lt;/em&gt;, one of his favorite books. The Bond novels have sold more than one hundred million copies worldwide, boosted by the hugely successful film franchise that began in 1962 with the release of &lt;em&gt;Dr. No&lt;/em&gt;. &lt;/p&gt;&lt;p&gt;He married Anne Rothermere in 1952. His story about a magical car, written in 1961 for their only son Caspar, went on to become the well- loved novel and film &lt;em&gt;Chitty Chitty Bang Bang&lt;/em&gt;. &lt;/p&gt;&lt;p&gt;Fleming died of heart failure on August 12, 1964, at the age of fifty-six. &lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta name="calibre:series" content="James Bond (Original Series)"/>
+    <meta name="calibre:title_sort" content="Goldfinger"/>
     <meta name="cover" content="cover"/>
-  </metadata>
+    <dc:date>1959-01-01T06:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2015-10-14T23:14:24+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>07 Goldfinger</dc:title>
+    <dc:identifier opf:scheme="GOOGLE">u85_MAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781906772222</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">1612185509</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">B008L40OWG</dc:identifier>
+    <dc:identifier opf:scheme="FF">f/ian-fleming/goldfinger</dc:identifier>
+    <dc:identifier opf:scheme="BARNESNOBLE">w/goldfinger-ian-fleming/1100675048</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">15954473</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8ef51cf8-c097-4887-ba4e-188b2c61b09b</dc:identifier>
+    <meta name="calibre:rating" content="0"/>
+<dc:subject>Fiction</dc:subject>
+<dc:subject>Espionage</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ian Fleming&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+</metadata>
   <manifest>
-    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
-    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
-    <item id="html5" href="20160105_split_000.html" media-type="application/xhtml+xml"/>
-    <item id="html4" href="20160105_split_001.html" media-type="application/xhtml+xml"/>
-    <item id="html3" href="20160105_split_002.html" media-type="application/xhtml+xml"/>
-    <item id="html2" href="20160105_split_003.html" media-type="application/xhtml+xml"/>
-    <item id="html1" href="20160105_split_004.html" media-type="application/xhtml+xml"/>
-    <item id="added" href="img-map.jpg" media-type="image/jpeg"/>
-    <item id="page_css" href="page_styles.css" media-type="text/css"/>
-    <item id="css" href="stylesheet.css" media-type="text/css"/>
-    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="cover1.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00004.jpeg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00005.jpeg" id="id5" media-type="image/jpeg"/>
+    <item href="images/00006.jpeg" id="id6" media-type="image/jpeg"/>
+    <item href="images/00007.jpeg" id="id7" media-type="image/jpeg"/>
+    <item href="images/00008.jpeg" id="id8" media-type="image/jpeg"/>
+    <item href="images/00009.jpeg" id="id9" media-type="image/jpeg"/>
+    <item href="images/00010.jpeg" id="id10" media-type="image/jpeg"/>
+    <item href="images/00011.jpeg" id="id11" media-type="image/jpeg"/>
+    <item href="images/00012.jpeg" id="id12" media-type="image/jpeg"/>
+    <item href="images/00013.jpeg" id="id13" media-type="image/jpeg"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="text/part0000.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id30" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id31" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id32" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id36" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id37" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id38" media-type="application/xhtml+xml"/>
+    <item href="text/part0018.html" id="id39" media-type="application/xhtml+xml"/>
+    <item href="text/part0019.html" id="id40" media-type="application/xhtml+xml"/>
+    <item href="text/part0020.html" id="id41" media-type="application/xhtml+xml"/>
+    <item href="text/part0021.html" id="id42" media-type="application/xhtml+xml"/>
+    <item href="text/part0022.html" id="id43" media-type="application/xhtml+xml"/>
+    <item href="text/part0023.html" id="id44" media-type="application/xhtml+xml"/>
+    <item href="text/part0024.html" id="id45" media-type="application/xhtml+xml"/>
+    <item href="text/part0025.html" id="id46" media-type="application/xhtml+xml"/>
+    <item href="text/part0026.html" id="id47" media-type="application/xhtml+xml"/>
+    <item href="text/part0027.html" id="id48" media-type="application/xhtml+xml"/>
+    <item href="text/part0028.html" id="id49" media-type="application/xhtml+xml"/>
+    <item href="text/part0029.html" id="id50" media-type="application/xhtml+xml"/>
+    <item href="text/part0030.html" id="id51" media-type="application/xhtml+xml"/>
+    <item href="text/part0031.html" id="id52" media-type="application/xhtml+xml"/>
+    <item href="text/part0032.html" id="id53" media-type="application/xhtml+xml"/>
+    <item href="text/part0033.html" id="id54" media-type="application/xhtml+xml"/>
+    <item href="text/part0034.html" id="id55" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="titlepage"/>
-    <itemref idref="html5"/>
-    <itemref idref="html4"/>
-    <itemref idref="html3"/>
-    <itemref idref="html2"/>
-    <itemref idref="html1"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
   </spine>
   <guide>
-    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+    <reference href="text/part0006.html" type="toc" title="Table of Contents"/>
   </guide>
 </package>

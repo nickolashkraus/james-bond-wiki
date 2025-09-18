@@ -1,165 +1,207 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="846a8eea-d615-4321-916f-3c495636f895"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="5dbde53c-6b17-4fe4-9051-0d274ae7a9b1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Diamonds are Forever</text>
+    <text>04 Diamonds Are Forever</text>
   </docTitle>
   <navMap>
-    <navPoint id="uvSXb44dRJgAtwqytv9VLSE" playOrder="1">
+    <navPoint class="chapter" id="da10bcd3-7cb1-441a-814b-9dfc44b12761" playOrder="1">
       <navLabel>
-        <text>1 THE PIPELINE OPENS</text>
+        <text>Praise For Ian Fleming And Diamonds Are Forever</text>
       </navLabel>
-      <content src="20170328-e_split_004.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="uddFQcdTBTRWAHBAvS9oByD" playOrder="2">
+    <navPoint class="chapter" id="31d92df0-f6b7-4db7-87fb-42cae39a2a31" playOrder="2">
       <navLabel>
-        <text>2 GEM QUALITY</text>
+        <text>The James Bond Books</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_2"/>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="uQTP5oioYRn9kux2stnONe6" playOrder="3">
+    <navPoint class="chapter" id="1d2de64e-d9ba-49bd-91dc-ae619fb6533d" playOrder="3">
       <navLabel>
-        <text>3 HOT ICE</text>
+        <text>Half Title</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_3"/>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="u3oUera8NoqZHjq7VNHMNEG" playOrder="4">
+    <navPoint class="chapter" id="fa970f75-29a4-494b-92dc-6d396a13c454" playOrder="4">
       <navLabel>
-        <text>4 “WHAT GOES ON AROUND HERE?”</text>
+        <text>Copyright</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_4"/>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uiPawxrNbJFkbwaVqHM8fSE" playOrder="5">
+    <navPoint class="chapter" id="78b17351-b6fc-4e8b-ab98-602c9722db51" playOrder="5">
       <navLabel>
-        <text>5 “FEUILLES MORTES”</text>
+        <text>Title</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_5"/>
+      <content src="text/part0004.html"/>
     </navPoint>
-    <navPoint id="u9SKzMrFnVoS7TzJe6xetLB" playOrder="6">
+    <navPoint class="chapter" id="70f07b8f-bca9-4a74-8a6d-0f10a5c36d50" playOrder="6">
       <navLabel>
-        <text>6 IN TRANSIT</text>
+        <text>Contents</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_6"/>
+      <content src="text/part0005.html"/>
     </navPoint>
-    <navPoint id="uQdPWrT2AKUYQOdQ5zIgcL7" playOrder="7">
+    <navPoint class="chapter" id="21242818-f052-4b80-9393-f0c06f70dad3" playOrder="7">
       <navLabel>
-        <text>7 ‘SHADY’ TREE</text>
+        <text>1 | The Pipeline Opens</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_7"/>
+      <content src="text/part0006.html"/>
     </navPoint>
-    <navPoint id="u763Cs8oewTIUeRy9NlrDSE" playOrder="8">
+    <navPoint class="chapter" id="d52b2864-8b98-4e8e-b7ad-66568f17293b" playOrder="8">
       <navLabel>
-        <text>8 THE EYE THAT NEVER SLEEPS</text>
+        <text>2 | Gem Quality</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_8"/>
+      <content src="text/part0007.html"/>
     </navPoint>
-    <navPoint id="uVDlP75OXNulCpUaj6c954G" playOrder="9">
+    <navPoint class="chapter" id="66f5b394-994a-46d8-90a7-14d28135f8f2" playOrder="9">
       <navLabel>
-        <text>9 BITTER CHAMPAGNE</text>
+        <text>3 | Hot Ice</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_9"/>
+      <content src="text/part0008.html"/>
     </navPoint>
-    <navPoint id="uxbFtIqpclPe8dVjXwCDTcB" playOrder="10">
+    <navPoint class="chapter" id="8a3b6440-8e45-472e-8034-4f6feed7d043" playOrder="10">
       <navLabel>
-        <text>10 STUDILLAC TO SARATOGA</text>
+        <text>4 | ‘What Goes On Around Here?’</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_10"/>
+      <content src="text/part0009.html"/>
     </navPoint>
-    <navPoint id="uCZQCx5Lps4RJVtFAvG59UD" playOrder="11">
+    <navPoint class="chapter" id="c1c1ca6d-8381-4db4-8678-be962114b207" playOrder="11">
       <navLabel>
-        <text>11 SHY SMILE</text>
+        <text>5 | ‘Feuilles Mortes’</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_11"/>
+      <content src="text/part0010.html"/>
     </navPoint>
-    <navPoint id="urSMivrCAe6dd5k6AFAXMTD" playOrder="12">
+    <navPoint class="chapter" id="c579826d-acb2-4e89-938e-bdac1af068db" playOrder="12">
       <navLabel>
-        <text>12 THE PERPETUITIES</text>
+        <text>6 | In Transit</text>
       </navLabel>
-      <content src="20170328-e_split_004.html#calibre_toc_12"/>
+      <content src="text/part0011.html"/>
     </navPoint>
-    <navPoint id="uYym9QbbgcaY2vDAn94HjA4" playOrder="13">
+    <navPoint class="chapter" id="60a6537d-694f-472e-8291-d1e477490780" playOrder="13">
       <navLabel>
-        <text>13 ACME MUD AND SULPHUR</text>
+        <text>7 | ‘Shady’ Tree</text>
       </navLabel>
-      <content src="20170328-e_split_005.html"/>
+      <content src="text/part0012.html"/>
     </navPoint>
-    <navPoint id="u59BFDUHkA3salM9tnhPwI5" playOrder="14">
+    <navPoint class="chapter" id="af0f510e-27ff-46ba-aadf-cc0f87b73ec0" playOrder="14">
       <navLabel>
-        <text>14 “WE DON’T LIKE MISTAKES”</text>
+        <text>8 | The Eye That Never Sleeps</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_14"/>
+      <content src="text/part0013.html"/>
     </navPoint>
-    <navPoint id="uQUYEB388S7WS9cGQbOx9OC" playOrder="15">
+    <navPoint class="chapter" id="5cc5c60f-1582-4618-831a-6e5f7c84d426" playOrder="15">
       <navLabel>
-        <text>15 RUE DE LA PAY</text>
+        <text>9 | Bitter Champagne</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_15"/>
+      <content src="text/part0014.html"/>
     </navPoint>
-    <navPoint id="ufQqDpmlfIiOjcdDDudG3IB" playOrder="16">
+    <navPoint class="chapter" id="1020e110-6e41-4884-b8d4-8d5bc6140e10" playOrder="16">
       <navLabel>
-        <text>16 THE TIARA</text>
+        <text>10 | Studillac to Saratoga</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_16"/>
+      <content src="text/part0015.html"/>
     </navPoint>
-    <navPoint id="uMwaRynQpgH8Fc6ENfTLntF" playOrder="17">
+    <navPoint class="chapter" id="b9001534-d83e-44ba-9e4b-e8e0b0eb4a7f" playOrder="17">
       <navLabel>
-        <text>17 THANKS FOR THE RIDE</text>
+        <text>11 | ‘Shy Smile’</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_17"/>
+      <content src="text/part0016.html"/>
     </navPoint>
-    <navPoint id="u9T8YOdEl2OeAYo2eHdRUJ2" playOrder="18">
+    <navPoint class="chapter" id="0a813739-f72c-40bd-bc27-0f15c88b8b45" playOrder="18">
       <navLabel>
-        <text>18 NIGHT FALLS IN THE PASSION PIT</text>
+        <text>12 | The Perpetuities</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_18"/>
+      <content src="text/part0017.html"/>
     </navPoint>
-    <navPoint id="uW4k2AVc9ygMSENuwYlLai6" playOrder="19">
+    <navPoint class="chapter" id="a081ddfa-39bf-43b5-8100-d69fed5d5e5b" playOrder="19">
       <navLabel>
-        <text>19 SPECTREVILLE</text>
+        <text>13 | Acme Mud and Sulphur</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_19"/>
+      <content src="text/part0018.html"/>
     </navPoint>
-    <navPoint id="uihUXD4phYzh7rsK9vbGnzF" playOrder="20">
+    <navPoint class="chapter" id="5e8e8404-da46-4642-a4ee-ef77d91b8862" playOrder="20">
       <navLabel>
-        <text>20 FLAMES COMING OUT OF THE TOP</text>
+        <text>14 | ‘We Don’t Like Mistakes’</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_20"/>
+      <content src="text/part0019.html"/>
     </navPoint>
-    <navPoint id="utTJ8wAnddeBVH2I4UJWI38" playOrder="21">
+    <navPoint class="chapter" id="e1f01087-dd29-4959-b7e1-83205474086f" playOrder="21">
       <navLabel>
-        <text>21 “NOTHING PROPINKS LIKE PROPINQUITY”</text>
+        <text>15 | Rue de la Pay</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_21"/>
+      <content src="text/part0020.html"/>
     </navPoint>
-    <navPoint id="uWQ8u3vO7xE4fE5YuYWdwfE" playOrder="22">
+    <navPoint class="chapter" id="511574cc-ef16-4afd-b59a-380e60e87808" playOrder="22">
       <navLabel>
-        <text>22 LOVE AND SAUCE BÉARNAISE</text>
+        <text>16 | ‘The Tiara’</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_22"/>
+      <content src="text/part0021.html"/>
     </navPoint>
-    <navPoint id="uWUrOoZG6ULhlFmXu52qov3" playOrder="23">
+    <navPoint class="chapter" id="ed48d2b7-da63-436b-8545-e0a9f9786de6" playOrder="23">
       <navLabel>
-        <text>23 THE JOB COMES SECOND</text>
+        <text>17 | ‘Thanks for the Ride ’</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_23"/>
+      <content src="text/part0022.html"/>
     </navPoint>
-    <navPoint id="u3JwDNCk5uqd69AsE8cixN6" playOrder="24">
+    <navPoint class="chapter" id="7430aca7-82b0-4369-8077-aa12b1af314b" playOrder="24">
       <navLabel>
-        <text>24 DEATH IS SO PERMANENT</text>
+        <text>18 | Night Falls in the Passion Pit</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_24"/>
+      <content src="text/part0023.html"/>
     </navPoint>
-    <navPoint id="uuZIPfKYHNlxH4XHl5BDXs3" playOrder="25">
+    <navPoint class="chapter" id="7014e9af-a0b6-44f9-b32b-129facbd49e5" playOrder="25">
       <navLabel>
-        <text>25 THE PIPELINE CLOSES</text>
+        <text>19 | Spectreville</text>
       </navLabel>
-      <content src="20170328-e_split_005.html#calibre_toc_25"/>
+      <content src="text/part0024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="321b7747-9912-4efc-af75-be2f184edab5" playOrder="26">
+      <navLabel>
+        <text>20 | Flames Coming Out of the Top</text>
+      </navLabel>
+      <content src="text/part0025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5b040083-34b0-4c4c-bfc6-a92100306404" playOrder="27">
+      <navLabel>
+        <text>21 | ‘Nothing Propinks Like Propinquity’</text>
+      </navLabel>
+      <content src="text/part0026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="477a1a29-9e70-4edc-a638-752339cecfd3" playOrder="28">
+      <navLabel>
+        <text>22 | Love and Sauce Béarnaise</text>
+      </navLabel>
+      <content src="text/part0027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b5c37343-c4d0-404d-9dd3-4e1c9cadfd3c" playOrder="29">
+      <navLabel>
+        <text>23 | The Job Comes Second</text>
+      </navLabel>
+      <content src="text/part0028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7013dd7f-7cb5-47ca-a8f0-288e6e948e3c" playOrder="30">
+      <navLabel>
+        <text>24 | Death is so Permanent</text>
+      </navLabel>
+      <content src="text/part0029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f9b796ea-9691-4283-ac64-55140ef71ce5" playOrder="31">
+      <navLabel>
+        <text>25 | The Pipeline Closes</text>
+      </navLabel>
+      <content src="text/part0030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1ecadf80-5bd9-4881-992d-88bc4689cb95" playOrder="32">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="text/part0031.html"/>
     </navPoint>
   </navMap>
 </ncx>

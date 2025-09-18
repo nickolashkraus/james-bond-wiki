@@ -1,177 +1,225 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="ea7d3dcf-80f7-4d6e-9ad7-749a1c7cfb32"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="1ed0630c-3d3d-472f-989c-ce87b73a282d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>On Her Majesty's Secret Service</text>
+    <text>11 On Her Majesty's Secret Service</text>
   </docTitle>
   <navMap>
-    <navPoint id="udGrsRoD4pWjA99BOz5Oa77" playOrder="1">
+    <navPoint class="chapter" id="ac87716c-be56-4a0b-8cc2-eefc55dbe6cb" playOrder="1">
       <navLabel>
-        <text>1 Seascape with Figures</text>
+        <text>PRAISE FOR IAN FLEMING AND ON HER MAJESTY’S SECRET SERVICE</text>
       </navLabel>
-      <content src="20180448-e_split_005.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="uAnuMk8OkzQG8MLIWUepJlD" playOrder="2">
+    <navPoint class="chapter" id="e975d7dd-0c8d-4f51-a147-f22660d3fc50" playOrder="2">
       <navLabel>
-        <text>2 Gran Turismo</text>
+        <text>THE JAMES BOND BOOKS</text>
       </navLabel>
-      <content src="20180448-e_split_006.html"/>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="uByTA2bZhF3IA2mv4VqpHgB" playOrder="3">
+    <navPoint class="chapter" id="756688b4-28ad-48e3-a6b8-95b132fb5a8e" playOrder="3">
       <navLabel>
-        <text>3 The Gambit of Shame</text>
+        <text>HALF TITLE</text>
       </navLabel>
-      <content src="20180448-e_split_007.html"/>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="uHHhhys7mQPbKlbcp5JgUoB" playOrder="4">
+    <navPoint class="chapter" id="8143fae7-ee66-4cb6-b795-e42845103e36" playOrder="5">
       <navLabel>
-        <text>4 All Cats are Grey</text>
+        <text>TITLE</text>
       </navLabel>
-      <content src="20180448-e_split_008.html"/>
+      <content src="text/part0004.html"/>
     </navPoint>
-    <navPoint id="utSbHlhKGJGOp2zot2w7DA5" playOrder="5">
+    <navPoint class="chapter" id="9635a535-1d7c-48af-90f6-ff22cc40df81" playOrder="4">
       <navLabel>
-        <text>5 The Capu</text>
+        <text>COPYRIGHT</text>
       </navLabel>
-      <content src="20180448-e_split_009.html"/>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uRlKVAUWhY9ehtDrZ6cgFeF" playOrder="6">
+    <navPoint class="chapter" id="f50af0b1-0ca8-46fb-86ac-b9c953b64b29" playOrder="6">
       <navLabel>
-        <text>6 Bond of Bond Street?</text>
+        <text>DEDICATION</text>
       </navLabel>
-      <content src="20180448-e_split_010.html"/>
+      <content src="text/part0005.html"/>
     </navPoint>
-    <navPoint id="upavvVaSubi924rHUzWv4y2" playOrder="7">
+    <navPoint class="chapter" id="fea4eec2-69a4-4ddc-a680-a5ecc8917dae" playOrder="7">
       <navLabel>
-        <text>7 The Hairy Heel of Achilles</text>
+        <text>CONTENTS</text>
       </navLabel>
-      <content src="20180448-e_split_011.html"/>
+      <content src="text/part0006.html"/>
     </navPoint>
-    <navPoint id="ucD23SVHNWMpTCjqMXHkr45" playOrder="8">
+    <navPoint class="chapter" id="1ae06e78-9f93-485d-a726-697470069adc" playOrder="8">
       <navLabel>
-        <text>8 Fancy Cover</text>
+        <text>1 | SEASCAPE WITH FIGURES</text>
       </navLabel>
-      <content src="20180448-e_split_012.html"/>
+      <content src="text/part0007.html"/>
     </navPoint>
-    <navPoint id="uLkryFZyIthFug3hvkUOCu4" playOrder="9">
+    <navPoint class="chapter" id="340df92b-0f0e-44b7-b5d9-c5a2806e0313" playOrder="9">
       <navLabel>
-        <text>9 Irma La Not So Douce</text>
+        <text>2 | GRAN TURISMO</text>
       </navLabel>
-      <content src="20180448-e_split_013.html"/>
+      <content src="text/part0008.html"/>
     </navPoint>
-    <navPoint id="uecMRtMfWmWcoMuOSDfsJj6" playOrder="10">
+    <navPoint class="chapter" id="049db55c-02ad-4fc7-adcf-9997092367f7" playOrder="10">
       <navLabel>
-        <text>10 Ten Gorgeous Girls</text>
+        <text>3 | THE GAMBIT OF SHAME</text>
       </navLabel>
-      <content src="20180448-e_split_014.html"/>
+      <content src="text/part0009.html"/>
     </navPoint>
-    <navPoint id="uV85yQ8whgqduL88Oi8uEdD" playOrder="11">
+    <navPoint class="chapter" id="877fbfb2-9d18-439f-870a-7c6a8f710257" playOrder="11">
       <navLabel>
-        <text>11 Death for Breakfast</text>
+        <text>4 | ALL CATS ARE GREY</text>
       </navLabel>
-      <content src="20180448-e_split_015.html"/>
+      <content src="text/part0010.html"/>
     </navPoint>
-    <navPoint id="u4jKrPkWOPuzoIzPKhWTBTF" playOrder="12">
+    <navPoint class="chapter" id="52302741-781e-406d-9941-5bef8188de15" playOrder="12">
       <navLabel>
-        <text>12 Two Near Misses</text>
+        <text>5 | THE CAPU</text>
       </navLabel>
-      <content src="20180448-e_split_016.html"/>
+      <content src="text/part0011.html"/>
     </navPoint>
-    <navPoint id="uKN2yw6kZrQCdSFJDcZuUVF" playOrder="13">
+    <navPoint class="chapter" id="3852740f-0f8a-4243-8c81-402a58600792" playOrder="13">
       <navLabel>
-        <text>13 Princess Ruby?</text>
+        <text>6 | BOND OF BOND STREET?</text>
       </navLabel>
-      <content src="20180448-e_split_017.html"/>
+      <content src="text/part0012.html"/>
     </navPoint>
-    <navPoint id="u6novg4HGDE7y49XE87ko73" playOrder="14">
+    <navPoint class="chapter" id="00ce8026-34f2-4574-ae67-9f1b58e44aa0" playOrder="14">
       <navLabel>
-        <text>14 Sweet Dreams—Sweet Nightmare!</text>
+        <text>7 | THE HAIRY HEEL OF ACHILLES</text>
       </navLabel>
-      <content src="20180448-e_split_018.html"/>
+      <content src="text/part0013.html"/>
     </navPoint>
-    <navPoint id="usTNkQAbJMZITxOXKqTFB5F" playOrder="15">
+    <navPoint class="chapter" id="6afcaa09-68ab-4346-80d5-2eea321b30d8" playOrder="15">
       <navLabel>
-        <text>15 The Heat Increases</text>
+        <text>8 | FANCY COVER</text>
       </navLabel>
-      <content src="20180448-e_split_019.html"/>
+      <content src="text/part0014.html"/>
     </navPoint>
-    <navPoint id="uhp9bM7dtEKuaZfMbGGyq25" playOrder="16">
+    <navPoint class="chapter" id="07c88146-18e0-49ee-b923-586d1209b037" playOrder="16">
       <navLabel>
-        <text>16 Downhill Only</text>
+        <text>9 | IRMA LA NOT SO DOUCE</text>
       </navLabel>
-      <content src="20180448-e_split_020.html"/>
+      <content src="text/part0015.html"/>
     </navPoint>
-    <navPoint id="uNkSFgBXyI8GehEe9turBw3" playOrder="17">
+    <navPoint class="chapter" id="00cda2c1-bb4f-4df3-a0c0-723cfecdf179" playOrder="17">
       <navLabel>
-        <text>17 Bloody Snow</text>
+        <text>10 | TEN GORGEOUS GIRLS</text>
       </navLabel>
-      <content src="20180448-e_split_021.html"/>
+      <content src="text/part0016.html"/>
     </navPoint>
-    <navPoint id="uo3AWRwlU8fyZX3JLqhgKZ8" playOrder="18">
+    <navPoint class="chapter" id="c275a6e6-93a1-4196-b0cb-f36168d2ab82" playOrder="18">
       <navLabel>
-        <text>18 Fork Left for Hell!</text>
+        <text>11 | DEATH FOR BREAKFAST</text>
       </navLabel>
-      <content src="20180448-e_split_022.html"/>
+      <content src="text/part0017.html"/>
     </navPoint>
-    <navPoint id="uVVubJqfjP6UKF5gnClyyaB" playOrder="19">
+    <navPoint class="chapter" id="d8b2458c-68fe-4147-bb6c-7e34680cf7a8" playOrder="19">
       <navLabel>
-        <text>19 Love for Breakfast</text>
+        <text>12 | TWO NEAR MISSES</text>
       </navLabel>
-      <content src="20180448-e_split_023.html"/>
+      <content src="text/part0018.html"/>
     </navPoint>
-    <navPoint id="u7dxd9vdbwmIVejIAieKvB2" playOrder="20">
+    <navPoint class="chapter" id="d21b72fe-ed91-4962-90fd-1fbe0dc2c284" playOrder="20">
       <navLabel>
-        <text>20 M en Pantoufles</text>
+        <text>13 | PRINCESS RUBY?</text>
       </navLabel>
-      <content src="20180448-e_split_024.html"/>
+      <content src="text/part0019.html"/>
     </navPoint>
-    <navPoint id="uEgTwwredfLCWW5JKIpkRV7" playOrder="21">
+    <navPoint class="chapter" id="f7e07c28-9394-4794-83f2-72cd05ca0ad6" playOrder="21">
       <navLabel>
-        <text>21 The Man from Ag. and Fish.</text>
+        <text>14 | SWEET DREAMS — SWEET NIGHTMARE!</text>
       </navLabel>
-      <content src="20180448-e_split_025.html"/>
+      <content src="text/part0020.html"/>
     </navPoint>
-    <navPoint id="uWzY8KERVEbgZn4QYgG7Ho5" playOrder="22">
+    <navPoint class="chapter" id="20f08025-79c0-42a5-aef0-fdc98e7f447f" playOrder="22">
       <navLabel>
-        <text>22 Something Called ‘BW’</text>
+        <text>15 | THE HEAT INCREASES</text>
       </navLabel>
-      <content src="20180448-e_split_026.html"/>
+      <content src="text/part0021.html"/>
     </navPoint>
-    <navPoint id="ukIPnu6l2XFALhM8GsV4Wq7" playOrder="23">
+    <navPoint class="chapter" id="cd6306b5-6d96-4120-a794-f9815bab4a7b" playOrder="23">
       <navLabel>
-        <text>23 Gauloises and Garlic</text>
+        <text>16 | DOWNHILL ONLY</text>
       </navLabel>
-      <content src="20180448-e_split_027.html"/>
+      <content src="text/part0022.html"/>
     </navPoint>
-    <navPoint id="uyuSWPM3BVDaPMuFcwARaJ9" playOrder="24">
+    <navPoint class="chapter" id="62824b80-fa33-41a6-84a7-69a2c1bcee14" playOrder="24">
       <navLabel>
-        <text>24 Blood-Lift</text>
+        <text>17 | BLOODY SNOW</text>
       </navLabel>
-      <content src="20180448-e_split_028.html"/>
+      <content src="text/part0023.html"/>
     </navPoint>
-    <navPoint id="u2uwH8ewEgz7A5XFgHNycoG" playOrder="25">
+    <navPoint class="chapter" id="1538b0d4-f8ba-4ecb-8152-37ee3e4939ee" playOrder="25">
       <navLabel>
-        <text>25 Hell’s Delight, etc.</text>
+        <text>18 | FORK LEFT FOR HELL!</text>
       </navLabel>
-      <content src="20180448-e_split_029.html"/>
+      <content src="text/part0024.html"/>
     </navPoint>
-    <navPoint id="ujgwYxm4SSyC6sLTpiWExgC" playOrder="26">
+    <navPoint class="chapter" id="f72958cb-6c08-44de-9c4f-0dc0cf9ef30a" playOrder="26">
       <navLabel>
-        <text>26 Happiness Without a Shadow?</text>
+        <text>19 | LOVE FOR BREAKFAST</text>
       </navLabel>
-      <content src="20180448-e_split_030.html"/>
+      <content src="text/part0025.html"/>
     </navPoint>
-    <navPoint id="u6Ytm7jShzMIrzyAMmDlET6" playOrder="27">
+    <navPoint class="chapter" id="e94b0172-a435-4dbc-b4ad-16d30dc7207f" playOrder="27">
       <navLabel>
-        <text>27 All the Time in the World</text>
+        <text>20 | M. EN PANTOUFLES</text>
       </navLabel>
-      <content src="20180448-e_split_031.html"/>
+      <content src="text/part0026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="027853f7-6151-4d1b-b192-a2f97d036a46" playOrder="28">
+      <navLabel>
+        <text>21 | THE MAN FROM AG. AND FISH.</text>
+      </navLabel>
+      <content src="text/part0027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="510db9f2-4bfb-4dcb-b383-2932ffe15b2e" playOrder="29">
+      <navLabel>
+        <text>22 | SOMETHING CALLED ‘B.W.’</text>
+      </navLabel>
+      <content src="text/part0028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="89e8d1fd-032b-48c5-a958-5cab2f6f5455" playOrder="30">
+      <navLabel>
+        <text>23 | GAULOISES AND GARLIC</text>
+      </navLabel>
+      <content src="text/part0029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4eddf470-2af1-43c4-ba8f-65960993e577" playOrder="31">
+      <navLabel>
+        <text>24 | BLOOD-LIFT</text>
+      </navLabel>
+      <content src="text/part0030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8e8b1b1f-9c2f-4b60-af93-b6575a316f0b" playOrder="32">
+      <navLabel>
+        <text>25 | HELL’S DELIGHT,</text>
+      </navLabel>
+      <content src="text/part0031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="de311756-72cb-457c-ab8d-a483b500f772" playOrder="33">
+      <navLabel>
+        <text>26 | HAPPINESS WITHOUT A SHADOW?</text>
+      </navLabel>
+      <content src="text/part0032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d8781ca7-3a14-46ed-8cf7-2b3fa2127b14" playOrder="34">
+      <navLabel>
+        <text>27 | ALL THE TIME IN THE WORLD</text>
+      </navLabel>
+      <content src="text/part0033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="60e4511d-7209-452c-b44f-36de734b4973" playOrder="35">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0034.html"/>
     </navPoint>
   </navMap>
 </ncx>

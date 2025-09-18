@@ -1,21 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="89a060c7-c08a-460d-987a-eea61e14cd76"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="8f3d7a07-abad-4e1e-8bd5-27ff513f4b19" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Octopussy</text>
+    <text>14 Octopussy and the Living Daylights</text>
   </docTitle>
   <navMap>
-    <navPoint id="uSleUMhqftCtzw3ayaVZQD6" playOrder="1">
+    <navPoint class="chapter" id="49a8e9b7-d43d-43c4-a955-62f0d3481f8f" playOrder="1">
       <navLabel>
-        <text>Octopussy</text>
+        <text>PRAISE FOR IAN FLEMING AND OCTOPUSSY AND THE LIVING DAYLIGHTS</text>
       </navLabel>
-      <content src="20190516_split_001.html"/>
+      <content src="text/part0000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="20b50d06-db0a-4502-82ee-ed7514755ca4" playOrder="2">
+      <navLabel>
+        <text>THE JAMES BOND BOOKS</text>
+      </navLabel>
+      <content src="text/part0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1d9bafae-4022-491c-b696-d0add070f1dd" playOrder="3">
+      <navLabel>
+        <text>HALF TITLE</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c583a298-caa1-42d9-8c00-851e401206dc" playOrder="4">
+      <navLabel>
+        <text>COPYRIGHT</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="78a2dc5e-6a73-4fcc-b1c9-8be279bbec6e" playOrder="5">
+      <navLabel>
+        <text>TITLE</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="af4c01f2-0a44-4407-855f-55a5eb17ef2d" playOrder="6">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="text/part0005_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1c811c77-1509-4e53-a8a8-4f1c91bfab05" playOrder="7">
+      <navLabel>
+        <text>1 | OCTOPUSSY</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="488a7d44-d0b2-452d-b520-6787d9e2fcaf" playOrder="8">
+      <navLabel>
+        <text>2 | THE PROPERTY OF A LADY</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="dee5b954-5b01-4614-b574-fedcdf4e3860" playOrder="9">
+      <navLabel>
+        <text>3 | THE LIVING DAYLIGHTS</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7e7a5372-ec38-4704-9b4d-a7f74b518f02" playOrder="10">
+      <navLabel>
+        <text>4 | 007 IN NEW YORK</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d7679ef8-03cf-4c0f-b82c-77c33f287603" playOrder="11">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
     </navPoint>
   </navMap>
 </ncx>

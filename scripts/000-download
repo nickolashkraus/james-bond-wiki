@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # DESCRIPTION
 # Download original EPUB files from https://www.fadedpage.com.
@@ -14,27 +14,45 @@
 EPUBS_DIR='site/static/epubs'
 
 # Map of download URLs -> EPUB filenames
-MAP=(
-  'https://www.fadedpage.com/link.php?file=20151102.epub,01-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20151111.epub,02-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20150804.epub,03-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20170328.epub,04-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20160104.epub,05-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20170725.epub,06-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20160105.epub,07-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20170435.epub,08-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20191233.epub,09-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20151114.epub,10-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20180448.epub,11-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20171118.epub,12-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20180848.epub,13-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20190516.epub,14-james-bond.epub'
-  'https://www.fadedpage.com/link.php?file=20190513.epub,15-james-bond.epub'
+# MAP=(
+#   'https://www.fadedpage.com/link.php?file=20151102.epub,01-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20151111.epub,02-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20150804.epub,03-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20170328.epub,04-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20160104.epub,05-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20170725.epub,06-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20160105.epub,07-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20170435.epub,08-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20191233.epub,09-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20151114.epub,10-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20180448.epub,11-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20171118.epub,12-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20180848.epub,13-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20190516.epub,14-james-bond.epub'
+#   'https://www.fadedpage.com/link.php?file=20190513.epub,15-james-bond.epub'
+# )
+declare -A MAP=(
+  ["01-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/01%20Casino%20Royale%20-%20Ian%20Fleming.epub"
+  ["02-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/02%20Live%20and%20Let%20Die%20-%20Ian%20Fleming.epub"
+  ["03-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/03%20Moonraker%20-%20Ian%20Fleming.epub"
+  ["04-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/04%20Diamonds%20Are%20Forever%20-%20Ian%20Fleming.epub"
+  ["05-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/05%20From%20Russia%20With%20Love%20-%20Ian%20Fleming.epub"
+  ["06-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/06%20Dr.%20No%20-%20Ian%20Fleming.epub"
+  ["07-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/07%20Goldfinger%20-%20Ian%20Fleming.epub"
+  ["08-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/08%20For%20Your%20Eyes%20Only%20-%20Ian%20Fleming.epub"
+  ["09-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/09%20Thunderball%20-%20Ian%20Fleming.epub"
+  ["10-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/10%20The%20Spy%20Who%20Loved%20Me%20-%20Ian%20Fleming.epub"
+  ["11-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/11%20On%20Her%20Majesty%27s%20Secret%20Service%20-%20Ian%20Fleming.epub"
+  ["12-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/12%20You%20Only%20Live%20Twice%20-%20Ian%20Fleming.epub"
+  ["13-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/13%20The%20Man%20With%20the%20Golden%20Gun%20-%20Ian%20Fleming.epub"
+  ["14-james-bond.epub"]="https://archive.org/download/james-bond-ian-fleming_202303/14%20Octopussy%20and%20the%20Living%20Daylights%20-%20Ian%20Fleming.epub"
 )
 
-for elem in "${MAP[@]}"; do
-  url="${elem%,*}"
-  filename="${elem#*,}"
+# Make sure EPUBS_DIR exists or create it.
+mkdir -p "${EPUBS_DIR:-./epubs}"
+
+for filename in "${!MAP[@]}"; do
+  url="${MAP[$filename]}"
   echo "Downloading ${filename}..."
   # NOTE: The session ID must be provided in the request to download the file.
   while IFS=':' read -r key value; do
@@ -43,6 +61,6 @@ for elem in "${MAP[@]}"; do
     esac
   done < <(curl --silent --head --location "${url}")
   PHPSESSID="${SET_COOKIE#*PHPSESSID=}";PHPSESSID="${PHPSESSID%;*}"
-  curl --silent -X GET -L "${url}" -o "${EPUBS_DIR}/${filename}" \
+  curl --silent -X GET -L "${url}" -o "${EPUBS_DIR:-./epubs}/${filename}" \
     -H "Cookie: PHPSESSID=${PHPSESSID}"
 done

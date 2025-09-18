@@ -1,189 +1,219 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="604aff82-1767-4e34-84c4-e72267d86a16"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="f57ae268-379d-44ba-bd9e-9e22fac1afd1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Casino Royale</text>
+    <text>01 Casino Royale</text>
   </docTitle>
   <navMap>
-    <navPoint id="uiMYyrVfXlWFuHdbjvnjmA5" playOrder="1">
+    <navPoint class="chapter" id="8b757a04-87e4-447d-b708-a43c7557c2d5" playOrder="1">
+      <navLabel>
+        <text>PRAISE FOR IAN FLEMING AND CASINO ROYALE</text>
+      </navLabel>
+      <content src="text/part0000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="07950c74-29da-421c-b7a6-63b7c79a3b26" playOrder="2">
+      <navLabel>
+        <text>THE JAMES BOND BOOKS</text>
+      </navLabel>
+      <content src="text/part0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d78e1139-a0d8-456d-8617-7320e96b6e9e" playOrder="3">
+      <navLabel>
+        <text>HALF TITLE</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ac876376-7f07-4ef1-8d93-313d4979709b" playOrder="4">
+      <navLabel>
+        <text>COPYRIGHT</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9e7db9d1-114e-44fa-a07b-cf234d428be1" playOrder="5">
+      <navLabel>
+        <text>TITLE</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c218f176-72a7-4f7e-8540-24a5b976a2a7" playOrder="6">
       <navLabel>
         <text>CONTENTS</text>
       </navLabel>
-      <content src="20151102-e_split_002.html"/>
+      <content src="text/part0005_split_000.html"/>
     </navPoint>
-    <navPoint id="ub5RTfiSakqLRWnyiRT3WVE" playOrder="2">
+    <navPoint class="chapter" id="05a05d38-9588-4803-af78-e1246432261f" playOrder="7">
       <navLabel>
-        <text>CHAPTER 1 THE SECRET AGENT</text>
+        <text>1 | THE SECRET AGENT</text>
       </navLabel>
-      <content src="20151102-e_split_003.html#calibre_toc_2"/>
+      <content src="text/part0006.html"/>
     </navPoint>
-    <navPoint id="ugCIIEFfGkffRPqsw8KRR74" playOrder="3">
+    <navPoint class="chapter" id="7041f4cc-ad31-47b1-92aa-a86e8dcf3b74" playOrder="8">
       <navLabel>
-        <text>CHAPTER 2 DOSSIER FOR M</text>
+        <text>2 | DOSSIER FOR M</text>
       </navLabel>
-      <content src="20151102-e_split_004.html"/>
+      <content src="text/part0007.html"/>
     </navPoint>
-    <navPoint id="u8nZHrsxyb9K6CQvVklnvB7" playOrder="4">
+    <navPoint class="chapter" id="d22f5ec5-8818-4af9-b98a-5705d2402388" playOrder="9">
       <navLabel>
-        <text>CHAPTER 3 NUMBER 007</text>
+        <text>3 | NUMBER 007</text>
       </navLabel>
-      <content src="20151102-e_split_005.html"/>
+      <content src="text/part0008.html"/>
     </navPoint>
-    <navPoint id="uUWc27CEQAu8M8U6JLAtxW4" playOrder="5">
+    <navPoint class="chapter" id="7ebb71ec-532b-49d9-9968-cb7d031ac341" playOrder="10">
       <navLabel>
-        <text>CHAPTER 4 L’ENNEMI ÉCOUTE</text>
+        <text>4 | ‘L’ENNEMI ÉCOUTE’</text>
       </navLabel>
-      <content src="20151102-e_split_006.html"/>
+      <content src="text/part0009.html"/>
     </navPoint>
-    <navPoint id="uRyG8eLR5ZTPhRcuUssvoG9" playOrder="6">
+    <navPoint class="chapter" id="1ddf9756-d66d-4858-b03d-43344940a36e" playOrder="11">
       <navLabel>
-        <text>CHAPTER 5 THE GIRL FROM HEADQUARTERS</text>
+        <text>5 | THE GIRL FROM HEADQUARTERS</text>
       </navLabel>
-      <content src="20151102-e_split_007.html"/>
+      <content src="text/part0010.html"/>
     </navPoint>
-    <navPoint id="uoJWiMk7695DbLThlWEG9FE" playOrder="7">
+    <navPoint class="chapter" id="24d15d05-8573-427d-95e9-643176c6b21e" playOrder="12">
       <navLabel>
-        <text>CHAPTER 6 TWO MEN IN STRAW HATS</text>
+        <text>6 | TWO MEN IN STRAW HATS</text>
       </navLabel>
-      <content src="20151102-e_split_008.html"/>
+      <content src="text/part0011.html"/>
     </navPoint>
-    <navPoint id="uzfp7p9PsRPdf8X2upStey4" playOrder="8">
+    <navPoint class="chapter" id="46133bc6-de88-4f1b-b251-92753110b82a" playOrder="13">
       <navLabel>
-        <text>CHAPTER 7 ROUGE ET NOIR</text>
+        <text>7 | ‘ROUGE ET NOIR’</text>
       </navLabel>
-      <content src="20151102-e_split_009.html"/>
+      <content src="text/part0012.html"/>
     </navPoint>
-    <navPoint id="uoNpMlAw8dNJVLEP4kNP4u5" playOrder="9">
+    <navPoint class="chapter" id="642f68f6-cca7-443e-b01d-5346f4311877" playOrder="14">
       <navLabel>
-        <text>CHAPTER 8 PINK LIGHTS AND CHAMPAGNE</text>
+        <text>8 | PINK LIGHTS AND CHAMPAGNE</text>
       </navLabel>
-      <content src="20151102-e_split_010.html"/>
+      <content src="text/part0013.html"/>
     </navPoint>
-    <navPoint id="uDJ86Qe569PtesM8s92EZIA" playOrder="10">
+    <navPoint class="chapter" id="79f15f90-6926-4578-a25a-b50f57be3089" playOrder="15">
       <navLabel>
-        <text>CHAPTER 9 THE GAME IS BACCARAT</text>
+        <text>9 | THE GAME IS BACCARAT</text>
       </navLabel>
-      <content src="20151102-e_split_011.html"/>
+      <content src="text/part0014.html"/>
     </navPoint>
-    <navPoint id="uMnKWxAqlNYcoHiCiUKXTU4" playOrder="11">
+    <navPoint class="chapter" id="17f85bcd-286d-4b48-94cd-188ca93c5a62" playOrder="16">
       <navLabel>
-        <text>CHAPTER 10 THE HIGH TABLE</text>
+        <text>10 | THE HIGH TABLE</text>
       </navLabel>
-      <content src="20151102-e_split_012.html"/>
+      <content src="text/part0015.html"/>
     </navPoint>
-    <navPoint id="uZF2KtaMsXjwWIj9ZHhwqlG" playOrder="12">
+    <navPoint class="chapter" id="587858a9-662c-40f7-913b-901b088ff65a" playOrder="17">
       <navLabel>
-        <text>CHAPTER 11 MOMENT OF TRUTH</text>
+        <text>11 | MOMENT OF TRUTH</text>
       </navLabel>
-      <content src="20151102-e_split_013.html"/>
+      <content src="text/part0016.html"/>
     </navPoint>
-    <navPoint id="uaDmBJTufOMWxKVdZwPsVI6" playOrder="13">
+    <navPoint class="chapter" id="f1643125-cde7-4378-8631-2b21b24daabf" playOrder="18">
       <navLabel>
-        <text>CHAPTER 12 THE DEADLY TUBE</text>
+        <text>12 | THE DEADLY TUBE</text>
       </navLabel>
-      <content src="20151102-e_split_014.html"/>
+      <content src="text/part0017.html"/>
     </navPoint>
-    <navPoint id="udjimLIOwprCY2Wbj8ctCi2" playOrder="14">
+    <navPoint class="chapter" id="4d1e43c6-5930-49ce-91ea-8624fe8f6859" playOrder="19">
       <navLabel>
-        <text>CHAPTER 13 ‘A WHISPER OF LOVE,A WHISPER OF HATE’</text>
+        <text>13 | ‘A WHISPER OF LOVE, A WHISPER OF HATE’</text>
       </navLabel>
-      <content src="20151102-e_split_015.html"/>
+      <content src="text/part0018.html"/>
     </navPoint>
-    <navPoint id="u8TGUyWH48yq9gcxzOH22Q6" playOrder="15">
+    <navPoint class="chapter" id="fa384c40-d703-4066-bf3e-89e1d4f4ed1a" playOrder="20">
       <navLabel>
-        <text>CHAPTER 14 ‘LA VIE EN ROSE?’</text>
+        <text>14 | ‘LA VIE EN ROSE?’</text>
       </navLabel>
-      <content src="20151102-e_split_016.html"/>
+      <content src="text/part0019.html"/>
     </navPoint>
-    <navPoint id="ulMitJ9LXvvmypiGtBrRq47" playOrder="16">
+    <navPoint class="chapter" id="a56e05a5-1bc7-414c-9f84-508c99a7dce4" playOrder="21">
       <navLabel>
-        <text>CHAPTER 15 BLACK HARE AND GREY HOUND</text>
+        <text>15 | BLACK HARE AND GREY HOUND</text>
       </navLabel>
-      <content src="20151102-e_split_017.html"/>
+      <content src="text/part0020.html"/>
     </navPoint>
-    <navPoint id="ugPvzh6QvBDO2SmB6usDFa2" playOrder="17">
+    <navPoint class="chapter" id="2c1669ee-6719-48df-9497-70dd187ba597" playOrder="22">
       <navLabel>
-        <text>CHAPTER 16 THE CRAWLING OF THE SKIN</text>
+        <text>16 | THE CRAWLING OF THE SKIN</text>
       </navLabel>
-      <content src="20151102-e_split_018.html"/>
+      <content src="text/part0021.html"/>
     </navPoint>
-    <navPoint id="u7Y3EPXJdeBdLE6KtlFKLGH" playOrder="18">
+    <navPoint class="chapter" id="7ff1bd9e-16e8-417e-a4ec-eeb8aeb27797" playOrder="23">
       <navLabel>
-        <text>CHAPTER 17 ‘MY DEAR BOY’</text>
+        <text>17 | ‘MY DEAR BOY’</text>
       </navLabel>
-      <content src="20151102-e_split_019.html"/>
+      <content src="text/part0022.html"/>
     </navPoint>
-    <navPoint id="uJ85RlXNj9JqQlWtmgTdC46" playOrder="19">
+    <navPoint class="chapter" id="9c2fe4a7-a36b-4f32-bbd7-787553058653" playOrder="24">
       <navLabel>
-        <text>CHAPTER 18 A CRAG-LIKE FACE</text>
+        <text>18 | A CRAG-LIKE FACE</text>
       </navLabel>
-      <content src="20151102-e_split_020.html"/>
+      <content src="text/part0023.html"/>
     </navPoint>
-    <navPoint id="uSpLRgDS24RgmdzjG9ouRRH" playOrder="20">
+    <navPoint class="chapter" id="87ad0162-69ee-415e-aa49-da7543fb2b2c" playOrder="25">
       <navLabel>
-        <text>CHAPTER 19 THE WHITE TENT</text>
+        <text>19 | THE WHITE TENT</text>
       </navLabel>
-      <content src="20151102-e_split_021.html"/>
+      <content src="text/part0024.html"/>
     </navPoint>
-    <navPoint id="umqa3IVlK4GW7jyo66pZUy5" playOrder="21">
+    <navPoint class="chapter" id="0a550790-bac4-4b1b-ae33-69c16b9a6716" playOrder="26">
       <navLabel>
-        <text>CHAPTER 20 THE NATURE OF EVIL</text>
+        <text>20 | THE NATURE OF EVIL</text>
       </navLabel>
-      <content src="20151102-e_split_022.html"/>
+      <content src="text/part0025.html"/>
     </navPoint>
-    <navPoint id="uCk38V7gLIQCLhrU2otw5P6" playOrder="22">
+    <navPoint class="chapter" id="26373167-8d56-40d9-814f-350404eb5181" playOrder="27">
       <navLabel>
-        <text>CHAPTER 21 VESPER</text>
+        <text>21 | VESPER</text>
       </navLabel>
-      <content src="20151102-e_split_023.html"/>
+      <content src="text/part0026.html"/>
     </navPoint>
-    <navPoint id="uGRfQQiIBhhjnonCkOjboZ4" playOrder="23">
+    <navPoint class="chapter" id="9288fe0d-8485-438b-8116-3097bb576065" playOrder="28">
       <navLabel>
-        <text>CHAPTER 22 THE HASTENING SALOON</text>
+        <text>22 | THE HASTENING SALOON</text>
       </navLabel>
-      <content src="20151102-e_split_024.html"/>
+      <content src="text/part0027.html"/>
     </navPoint>
-    <navPoint id="uchkmBIp36HyU5orXXUYD29" playOrder="24">
+    <navPoint class="chapter" id="935a818e-f7f3-416f-963d-ebabf1cf1a60" playOrder="29">
       <navLabel>
-        <text>CHAPTER 23 TIDE OF PASSION</text>
+        <text>23 | TIDE OF PASSION</text>
       </navLabel>
-      <content src="20151102-e_split_025.html"/>
+      <content src="text/part0028.html"/>
     </navPoint>
-    <navPoint id="urlXMN2Yd4kMby8xLboFkG8" playOrder="25">
+    <navPoint class="chapter" id="674b6324-ab97-44ac-bbd7-1faff4e4eed8" playOrder="30">
       <navLabel>
-        <text>CHAPTER 24 FRUIT DÉFENDU</text>
+        <text>24 | ‘FRUIT DÉFENDU’</text>
       </navLabel>
-      <content src="20151102-e_split_026.html"/>
+      <content src="text/part0029.html"/>
     </navPoint>
-    <navPoint id="utnOg4KCPA23ZmKQkz8biuB" playOrder="26">
+    <navPoint class="chapter" id="4e4cf5b5-0fb1-4d93-95cc-dc116ecdd6ec" playOrder="31">
       <navLabel>
-        <text>CHAPTER 25 ‘BLACK-PATCH’</text>
+        <text>25 | ‘BLACK-PATCH’</text>
       </navLabel>
-      <content src="20151102-e_split_027.html"/>
+      <content src="text/part0030.html"/>
     </navPoint>
-    <navPoint id="urmMdZEKaQfHOisNAbBlFd8" playOrder="27">
+    <navPoint class="chapter" id="caa7469e-02a9-4285-914d-941888735829" playOrder="32">
       <navLabel>
-        <text>CHAPTER 26 ‘SLEEP WELL, MY DARLING’</text>
+        <text>26 | ‘SLEEP WELL, MY DARLING’</text>
       </navLabel>
-      <content src="20151102-e_split_028.html"/>
+      <content src="text/part0031.html"/>
     </navPoint>
-    <navPoint id="usIFTCF3GCEWSM6z9jxceo8" playOrder="28">
+    <navPoint class="chapter" id="29dece38-56bb-4abf-b41d-186c2e521df5" playOrder="33">
       <navLabel>
-        <text>CHAPTER 27 THE BLEEDING HEART</text>
+        <text>27 | THE BLEEDING HEART</text>
       </navLabel>
-      <content src="20151102-e_split_029.html"/>
+      <content src="text/part0032.html"/>
     </navPoint>
-    <navPoint id="uIOBQEQpVtC8STX5HGNGLME" playOrder="29">
+    <navPoint class="chapter" id="7c4d9c3b-6cf6-4418-a937-9d15a350db99" playOrder="34">
       <navLabel>
-        <text>TRANSCRIBER NOTES</text>
+        <text>ABOUT THE AUTHOR</text>
       </navLabel>
-      <content src="20151102-e_split_030.html"/>
+      <content src="text/part0033.html"/>
     </navPoint>
   </navMap>
 </ncx>

@@ -1,80 +1,101 @@
-<?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <meta name="calibre:series" content="James Bond"/>
-    <meta name="calibre:series_index" content="10"/>
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Fleming, Ian">Ian Fleming</dc:creator>
+<dc:publisher>AmazonEncore</dc:publisher>
+    <meta name="calibre:series_index" content="10.0"/>
+    <dc:description>&lt;div&gt;&lt;p&gt;Set apart from the other books in Ian Fleming’s James Bond series, &lt;em&gt;The Spy Who Loved Me&lt;/em&gt; is told from the perspective of a femme fatale in the making––a victim of circumstance with a wounded heart. &lt;/p&gt;&lt;p&gt;Vivienne Michel, a precocious French Canadian raised in the United Kingdom, seems a foreigner in every land. With only a supercharged Vespa and a handful of American dollars, she travels down winding roads into the pine forests of the Adirondacks. After stopping at the Dreamy Pines Motor Court and being coerced into caretaking at the vacant motel for the night, Viv opens the door to two armed mobsters and realizes being a woman alone is no easy task. But when a third stranger shows—a confident Englishman with a keen sense for sizing things up—the tables are turned. &lt;/p&gt;&lt;p&gt;Still reeling in the wake of Operation Thunderball, Bond had planned for his jaunt through the Adirondacks to be a period of rest before his return to Europe. But that all changes when his tire goes flat in front of a certain motel…&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Ian Fleming was born in London on May 28, 1908. He was educated at Eton College and later spent a formative period studying languages in Europe. His first job was with Reuters News Agency where a Moscow posting gave him firsthand experience with what would become his literary &lt;em&gt;bete noire&lt;/em&gt;—the Soviet Union. During World War II he served as Assistant to the Director of Naval Intelligence and played a key role in Allied espionage operations. &lt;/p&gt;&lt;p&gt;After the war he worked as foreign manager of the &lt;em&gt;Sunday Times&lt;/em&gt;, a job that allowed him to spend two months each year in Jamaica. Here, in 1952, at his home “Goldeneye,” he wrote a book called &lt;em&gt;Casino Royale&lt;/em&gt;—and James Bond was born. The first print run sold out within a month. For the next twelve years Fleming produced a novel a year featuring Special Agent 007, the most famous spy of the century. His travels, interests, and wartime experience lent authority to everything he wrote. Raymond Chandler described him as “the most forceful and driving writer of thrillers in England.” Sales soared when President Kennedy named the fifth title, &lt;em&gt;From Russia With Love&lt;/em&gt;, one of his favorite books. The Bond novels have sold more than one hundred million copies worldwide, boosted by the hugely successful film franchise that began in 1962 with the release of &lt;em&gt;Dr. No&lt;/em&gt;. &lt;/p&gt;&lt;p&gt;He married Anne Rothermere in 1952. His story about a magical car, written in 1961 for their only son Caspar, went on to become the well- loved novel and film &lt;em&gt;Chitty Chitty Bang Bang&lt;/em&gt;. &lt;/p&gt;&lt;p&gt;Fleming died of heart failure on August 12, 1964, at the age of fifty-six. &lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta name="calibre:series" content="James Bond (Original Series)"/>
+    <meta name="calibre:title_sort" content="Spy Who Loved Me, The"/>
     <meta name="cover" content="cover"/>
-    <dc:publisher>Distributed Proofreaders Canada</dc:publisher>
-    <dc:subject>adventure</dc:subject>
-    <dc:subject>fiction</dc:subject>
-    <dc:subject>Great Britain</dc:subject>
-    <dc:subject>James Bond (Fictional character)</dc:subject>
-    <dc:subject>intelligence service</dc:subject>
-    <dc:subject>spy stories</dc:subject>
-    <dc:subject>film adaptation</dc:subject>
-    <dc:creator opf:file-as="Unknown" opf:role="aut">Fleming, Ian</dc:creator>
-    <meta name="calibre:timestamp" content="2020-09-30T14:37:49.222000+00:00"/>
-    <dc:date>1962-09-15T05:00:00+00:00</dc:date>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">41ac265a-b3b8-4369-8704-a4f59367f9d2</dc:identifier>
-    <dc:title>The Spy Who Loved Me</dc:title>
-    <dc:language>en</dc:language>
-  </metadata>
+    <dc:date>1961-01-01T06:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2015-10-14T23:14:29+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>10 The Spy Who Loved Me</dc:title>
+    <dc:identifier opf:scheme="GOOGLE">AMNwMAEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">1612185533</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">1612185533</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">B008L40OD0</dc:identifier>
+    <dc:identifier opf:scheme="FF">f/ian-fleming/spy-who-loved-me</dc:identifier>
+    <dc:identifier opf:scheme="BARNESNOBLE">w/spy-who-loved-me-ian-fleming/1100675050</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">15954476</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f6a9ea0e-945c-42da-84f6-1f7692a7fc3b</dc:identifier>
+    <meta name="calibre:rating" content="0"/>
+<dc:subject>Fiction</dc:subject>
+<dc:subject>Espionage</dc:subject>
+<dc:subject>General</dc:subject>
+<dc:subject>Action &amp; Adventure</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ian Fleming&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+</metadata>
   <manifest>
-    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="cover1.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00017.jpeg" id="id17" media-type="image/jpeg"/>
+    <item href="images/00018.jpeg" id="id18" media-type="image/jpeg"/>
+    <item href="images/00019.jpeg" id="id19" media-type="image/jpeg"/>
+    <item href="images/00020.jpeg" id="id20" media-type="image/jpeg"/>
+    <item href="images/00021.jpeg" id="id21" media-type="image/jpeg"/>
+    <item href="images/00022.jpeg" id="id22" media-type="image/jpeg"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="text/part0000.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id36" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id37" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id38" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id39" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id40" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id41" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id42" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id43" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id44" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id45" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id46" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id47" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id48" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id49" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id50" media-type="application/xhtml+xml"/>
+    <item href="text/part0018.html" id="id51" media-type="application/xhtml+xml"/>
+    <item href="text/part0019.html" id="id52" media-type="application/xhtml+xml"/>
+    <item href="text/part0020.html" id="id53" media-type="application/xhtml+xml"/>
+    <item href="text/part0021.html" id="id54" media-type="application/xhtml+xml"/>
+    <item href="text/part0022.html" id="id55" media-type="application/xhtml+xml"/>
+    <item href="text/part0023.html" id="id56" media-type="application/xhtml+xml"/>
+    <item href="text/part0024.html" id="id57" media-type="application/xhtml+xml"/>
     <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_000.html" id="html22" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_001.html" id="html21" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_002.html" id="html20" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_003.html" id="html19" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_004.html" id="html18" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_005.html" id="html17" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_006.html" id="html16" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_007.html" id="html15" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_008.html" id="html14" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_009.html" id="html13" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_010.html" id="html12" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_011.html" id="html11" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_012.html" id="html10" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_013.html" id="html9" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_014.html" id="html8" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_015.html" id="html7" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_016.html" id="html6" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_017.html" id="html5" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_018.html" id="html4" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_019.html" id="html3" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_020.html" id="html2" media-type="application/xhtml+xml"/>
-    <item href="20151114-e_split_021.html" id="html1" media-type="application/xhtml+xml"/>
-    <item href="cover.jpg" id="added" media-type="image/jpeg"/>
-    <item href="page_styles.css" id="page_css" media-type="text/css"/>
-    <item href="stylesheet.css" id="css" media-type="text/css"/>
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="titlepage"/>
-    <itemref idref="html22"/>
-    <itemref idref="html21"/>
-    <itemref idref="html20"/>
-    <itemref idref="html19"/>
-    <itemref idref="html18"/>
-    <itemref idref="html17"/>
-    <itemref idref="html16"/>
-    <itemref idref="html15"/>
-    <itemref idref="html14"/>
-    <itemref idref="html13"/>
-    <itemref idref="html12"/>
-    <itemref idref="html11"/>
-    <itemref idref="html10"/>
-    <itemref idref="html9"/>
-    <itemref idref="html8"/>
-    <itemref idref="html7"/>
-    <itemref idref="html6"/>
-    <itemref idref="html5"/>
-    <itemref idref="html4"/>
-    <itemref idref="html3"/>
-    <itemref idref="html2"/>
-    <itemref idref="html1"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id57"/>
   </spine>
   <guide>
-    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+    <reference href="text/part0005.html" type="toc" title="Table of Contents"/>
   </guide>
 </package>

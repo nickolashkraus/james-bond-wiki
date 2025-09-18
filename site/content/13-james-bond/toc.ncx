@@ -1,117 +1,159 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta content="07e633cf-14b6-457b-9746-7402441d21ab" name="dtb:uid"/>
+    <meta content="a40ccd3e-9562-491b-88e7-063bdf4151e3" name="dtb:uid"/>
     <meta content="2" name="dtb:depth"/>
-    <meta content="calibre (4.23.0)" name="dtb:generator"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
     <meta content="0" name="dtb:totalPageCount"/>
     <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>The Man With the Golden Gun</text>
+    <text>13 The Man With the Golden Gun</text>
   </docTitle>
   <navMap>
-    <navPoint id="u9Z6tapY2NN5H6xFukKfbDE" playOrder="1">
+    <navPoint class="chapter" id="290f6b7a-3940-469d-8d53-7c1a8b0a6317" playOrder="1">
       <navLabel>
-        <text>1  “Can I Help You?”</text>
+        <text>PRAISE FOR IAN FLEMING AND THE MAN WITH THE GOLDEN GUN</text>
       </navLabel>
-      <content src="20180848-e_split_006.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="uRohWCIZwmjKnAU45oSe5iE" playOrder="2">
+    <navPoint class="chapter" id="dcc4cc31-2eed-48de-a013-76b7d03180ea" playOrder="2">
       <navLabel>
-        <text>2  Attentat!</text>
+        <text>THE JAMES BOND BOOKS</text>
       </navLabel>
-      <content src="20180848-e_split_007.html"/>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="utsBxoUSQ2WJutSd5ByvwAE" playOrder="3">
+    <navPoint class="chapter" id="064b99ce-182b-416c-831d-2d4e838db354" playOrder="3">
       <navLabel>
-        <text>3  “Pistols” Scaramanga</text>
+        <text>HALF TITLE</text>
       </navLabel>
-      <content src="20180848-e_split_008.html"/>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="us2vSqBFdTF6fHgQdkkBzSG" playOrder="4">
+    <navPoint class="chapter" id="1c840e7f-e180-4656-bf44-e4c1c0f2ee60" playOrder="4">
       <navLabel>
-        <text>4  The Stars Foretell</text>
+        <text>COPYRIGHT</text>
       </navLabel>
-      <content src="20180848-e_split_009.html"/>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uKVvzyPCsSCdJiLA5Xde4mD" playOrder="5">
+    <navPoint class="chapter" id="a32e0981-1652-4ea4-8b1d-d5dd1ccabd37" playOrder="5">
       <navLabel>
-        <text>5  No. 3½ Love Lane</text>
+        <text>TITLE</text>
       </navLabel>
-      <content src="20180848-e_split_010.html"/>
+      <content src="text/part0004.html"/>
     </navPoint>
-    <navPoint id="utepMpAWPrFKGUZvsRltY33" playOrder="6">
+    <navPoint class="chapter" id="21eaadf7-8fcf-40ec-aba2-adf5ffad56ac" playOrder="6">
       <navLabel>
-        <text>6  The Easy Grand</text>
+        <text>CONTENTS</text>
       </navLabel>
-      <content src="20180848-e_split_011.html"/>
+      <content src="text/part0005.html"/>
     </navPoint>
-    <navPoint id="u5rHvssWNrPUajVvniVF2BA" playOrder="7">
+    <navPoint class="chapter" id="865b44a9-3649-4073-beac-b2134fe32225" playOrder="7">
       <navLabel>
-        <text>7  Un-real Estate</text>
+        <text>1 ‘CAN I HELP YOU?’</text>
       </navLabel>
-      <content src="20180848-e_split_012.html"/>
+      <content src="text/part0006.html"/>
     </navPoint>
-    <navPoint id="uSLsoYbTWooDvzJIwvR8wJ4" playOrder="8">
+    <navPoint class="chapter" id="61ca4b1c-7b46-4a5f-920e-f65a724c2f0c" playOrder="8">
       <navLabel>
-        <text>8  Pass the Canapés!</text>
+        <text>2 ATTENTAT!</text>
       </navLabel>
-      <content src="20180848-e_split_013.html"/>
+      <content src="text/part0007.html"/>
     </navPoint>
-    <navPoint id="uTrmIadmbZUOy5kPPrHH6B6" playOrder="9">
+    <navPoint class="chapter" id="0f1bb23c-3d23-4579-b98c-6dbc854089f2" playOrder="9">
       <navLabel>
-        <text>9  Minutes of the Meeting</text>
+        <text>3 ‘PISTOLS’ SCARAMANGA</text>
       </navLabel>
-      <content src="20180848-e_split_014.html"/>
+      <content src="text/part0008.html"/>
     </navPoint>
-    <navPoint id="uxUIZqfTt8N4RgzkIZKIbf4" playOrder="10">
+    <navPoint class="chapter" id="adabae14-d4d9-453e-b7cb-24917fba2a2e" playOrder="10">
       <navLabel>
-        <text>10  Belly-Lick, etc.</text>
+        <text>4 THE STARS FORETELL</text>
       </navLabel>
-      <content src="20180848-e_split_015.html"/>
+      <content src="text/part0009.html"/>
     </navPoint>
-    <navPoint id="uOzxsU6vtJhihCMknBOfVvE" playOrder="11">
+    <navPoint class="chapter" id="c4b9aa11-c552-402d-b74c-83eb8ddf0d6c" playOrder="11">
       <navLabel>
-        <text>11  Ballcock, and Other, Trouble</text>
+        <text>5 NO. LOVE LANE</text>
       </navLabel>
-      <content src="20180848-e_split_016.html"/>
+      <content src="text/part0010.html"/>
     </navPoint>
-    <navPoint id="uuLE7nzQhFwspda4sMYVfO5" playOrder="12">
+    <navPoint class="chapter" id="204f0b9c-e4cb-442a-8061-ed1bf8b265c8" playOrder="12">
       <navLabel>
-        <text>12  In a Glass, Very Darkly</text>
+        <text>6 THE EASY GRAND</text>
       </navLabel>
-      <content src="20180848-e_split_017.html"/>
+      <content src="text/part0011.html"/>
     </navPoint>
-    <navPoint id="uoHq8kFWiQfLomeYklGPdD3" playOrder="13">
+    <navPoint class="chapter" id="439e206e-240c-4528-98b2-4527516ddf32" playOrder="13">
       <navLabel>
-        <text>13  Hear the Train Blow!</text>
+        <text>7 UN-REAL ESTATE</text>
       </navLabel>
-      <content src="20180848-e_split_018.html"/>
+      <content src="text/part0012.html"/>
     </navPoint>
-    <navPoint id="uaeYWinxkxNH4kw3xvY8mlG" playOrder="14">
+    <navPoint class="chapter" id="cf4950fb-41e4-4c3b-af69-897b2c07a9ac" playOrder="14">
       <navLabel>
-        <text>14  The Great Morass</text>
+        <text>8 PASS THE CANAPÉS!</text>
       </navLabel>
-      <content src="20180848-e_split_019.html"/>
+      <content src="text/part0013.html"/>
     </navPoint>
-    <navPoint id="uhErX3yQZYJWmZ2uZfGuIQE" playOrder="15">
+    <navPoint class="chapter" id="78b47a04-a12b-4c00-89e0-823e31c23ae4" playOrder="15">
       <navLabel>
-        <text>15  Crab-meat</text>
+        <text>9 MINUTES OF THE MEETING</text>
       </navLabel>
-      <content src="20180848-e_split_020.html"/>
+      <content src="text/part0014.html"/>
     </navPoint>
-    <navPoint id="u6IIZanzEbaaxJUmUEXqURG" playOrder="16">
+    <navPoint class="chapter" id="12b257df-a18a-4d85-bb71-1f1c33bc7570" playOrder="16">
       <navLabel>
-        <text>16  The Wrapup</text>
+        <text>10 BELLY-LICK, ETC.</text>
       </navLabel>
-      <content src="20180848-e_split_021.html"/>
+      <content src="text/part0015.html"/>
     </navPoint>
-    <navPoint id="ulD5xUwOLZcK9DTcqfPPzi4" playOrder="17">
+    <navPoint class="chapter" id="94a907f4-c88a-4544-824d-7a6078154d29" playOrder="17">
       <navLabel>
-        <text>17  Endit</text>
+        <text>11 BALLCOCK, AND OTHER, TROUBLE</text>
       </navLabel>
-      <content src="20180848-e_split_022.html"/>
+      <content src="text/part0016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e69b33ba-b8b0-41b7-9d80-195b2e2c95dd" playOrder="18">
+      <navLabel>
+        <text>12 IN A GLASS, VERY DARKLY</text>
+      </navLabel>
+      <content src="text/part0017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6f762e6f-0d46-49ef-a327-5de11ac0e064" playOrder="19">
+      <navLabel>
+        <text>13 HEAR THE TRAIN BLOW!</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="91b9ff3d-253f-4e4d-a8a5-8624ef6d0a6a" playOrder="20">
+      <navLabel>
+        <text>14 THE GREAT MORASS</text>
+      </navLabel>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5646c0d2-9717-4290-9955-847178f66010" playOrder="21">
+      <navLabel>
+        <text>15 CRAB-MEAT</text>
+      </navLabel>
+      <content src="text/part0020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d84050c0-ee53-49cf-9f98-08e662e0fc4c" playOrder="22">
+      <navLabel>
+        <text>16 THE WRAP-UP</text>
+      </navLabel>
+      <content src="text/part0021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="044a94cb-fb4e-4f53-915b-f7c2cea70089" playOrder="23">
+      <navLabel>
+        <text>17 ENDIT</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="125d2fd7-ccf1-4faa-830c-1b1b408fd524" playOrder="24">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0023.html"/>
     </navPoint>
   </navMap>
 </ncx>

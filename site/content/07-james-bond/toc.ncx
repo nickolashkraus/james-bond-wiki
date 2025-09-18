@@ -1,39 +1,219 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="d2422acc-9a7d-4d5d-8a2a-6351a40f5a8d"/>
-    <meta name="dtb:depth" content="3"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="8ef51cf8-c097-4887-ba4e-188b2c61b09b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Goldfinger</text>
+    <text>07 Goldfinger</text>
   </docTitle>
   <navMap>
-    <navPoint id="uHSV9MdzSJ8XbmXHslnFsA6" playOrder="1">
+    <navPoint class="chapter" id="1fa111be-4634-4490-a6f5-f16d66ae7598" playOrder="1">
       <navLabel>
-        <text>GOLDFINGER</text>
+        <text>PRAISE</text>
       </navLabel>
-      <content src="20160105_split_001.html"/>
-      <navPoint id="uMDqcn8uFbnhbFuOEiuzdl7" playOrder="2">
-        <navLabel>
-          <text>1 - HAPPENSTANCE</text>
-        </navLabel>
-        <content src="20160105_split_002.html"/>
-      </navPoint>
-      <navPoint id="uYmA3G7WMYtNrZQVZSZns22" playOrder="3">
-        <navLabel>
-          <text>2 - COINCIDENCE</text>
-        </navLabel>
-        <content src="20160105_split_003.html"/>
-      </navPoint>
-      <navPoint id="uPOtgY24VXnHdZnvdjWT2Z5" playOrder="4">
-        <navLabel>
-          <text>3 - ENEMY ACTION</text>
-        </navLabel>
-        <content src="20160105_split_004.html"/>
-      </navPoint>
+      <content src="text/part0000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="392628f8-9926-43b3-8329-200bef998403" playOrder="2">
+      <navLabel>
+        <text>OTHER BOOKS</text>
+      </navLabel>
+      <content src="text/part0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4f6a87d3-4b70-4d30-9cad-7902018ae6e7" playOrder="3">
+      <navLabel>
+        <text>HALF TITLE</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="023adfd2-708a-4980-998c-ac954576cd5f" playOrder="4">
+      <navLabel>
+        <text>COPYRIGHT</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="264d30e6-d53a-46fc-944a-5fe2e1186b38" playOrder="5">
+      <navLabel>
+        <text>TITLE</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="01396b7c-10b6-4236-b908-071c30d2f74d" playOrder="6">
+      <navLabel>
+        <text>AUTHOR NOTE</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e58103d1-739e-4f4e-b4c3-20f98f5b4719" playOrder="7">
+      <navLabel>
+        <text>DEDICATION</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="63ad95c7-40d2-466c-8080-b7a3d446d70c" playOrder="8">
+      <navLabel>
+        <text>PART ONE: HAPPENSTANCE</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1d87b2c0-263d-4042-b986-a72f5e11aa1c" playOrder="9">
+      <navLabel>
+        <text>CHAPTER 1: REFLECTIONS IN A DOUBLE BOURBON</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="bc58cda1-1c02-49b3-96a8-1d0b264b406c" playOrder="10">
+      <navLabel>
+        <text>CHAPTER 2: LIVING IT UP</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="830b2e95-df87-410c-8d51-58b7b5db33fb" playOrder="11">
+      <navLabel>
+        <text>CHAPTER 3: THE MAN WITH AGORAPHOBIA</text>
+      </navLabel>
+      <content src="text/part0011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="02bc0db4-9062-4c84-a89b-d4725e258e65" playOrder="12">
+      <navLabel>
+        <text>CHAPTER 4: OVER THE BARREL</text>
+      </navLabel>
+      <content src="text/part0012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="160efc48-e845-4354-8546-826f0cd3759f" playOrder="13">
+      <navLabel>
+        <text>CHAPTER 5: NIGHT DUTY</text>
+      </navLabel>
+      <content src="text/part0013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9c7af911-65e8-4c94-9a99-b38069d582c6" playOrder="14">
+      <navLabel>
+        <text>CHAPTER 6: TALK OF GOLD</text>
+      </navLabel>
+      <content src="text/part0014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="cec5eb58-f5da-4c9f-9c30-1cc4fad010cb" playOrder="15">
+      <navLabel>
+        <text>CHAPTER 7: THOUGHTS IN A D.B. III</text>
+      </navLabel>
+      <content src="text/part0015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a6d9957a-e14e-4341-a13c-c6abe85f6b33" playOrder="16">
+      <navLabel>
+        <text>PART TWO: COINCIDENCE</text>
+      </navLabel>
+      <content src="text/part0016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9fa9886e-f523-4855-a57f-51e53bc6b38c" playOrder="17">
+      <navLabel>
+        <text>CHAPTER 8: ALL TO PLAY FOR</text>
+      </navLabel>
+      <content src="text/part0017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="87fd902c-ccd0-4afa-95c7-e551c72b0586" playOrder="18">
+      <navLabel>
+        <text>CHAPTER 9: THE CUP AND THE LIP</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="da39ebcf-b0e1-4745-bb3a-342f50076af9" playOrder="19">
+      <navLabel>
+        <text>CHAPTER 10: UP AT THE GRANGE</text>
+      </navLabel>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="3123b8da-0767-4db5-b628-d4e6651a135b" playOrder="20">
+      <navLabel>
+        <text>CHAPTER 11: THE ODD-JOB MAN</text>
+      </navLabel>
+      <content src="text/part0020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="96289ddd-fdde-41ef-9e4a-695d3895b8c7" playOrder="21">
+      <navLabel>
+        <text>CHAPTER 12: LONG TAIL ON A GHOST</text>
+      </navLabel>
+      <content src="text/part0021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d911335a-1792-44fd-917a-f0ea4a3c4818" playOrder="22">
+      <navLabel>
+        <text>CHAPTER 13: ‘IF YOU TOUCH ME THERE</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e32b4925-dcf7-455b-a899-5eb11399ee95" playOrder="23">
+      <navLabel>
+        <text>CHAPTER 14: THINGS THAT GO THUMP IN THE NIGHT</text>
+      </navLabel>
+      <content src="text/part0023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1e4a5551-0ee8-4a64-8442-4f20a305ea54" playOrder="24">
+      <navLabel>
+        <text>PART THREE: ENEMY ACTION</text>
+      </navLabel>
+      <content src="text/part0024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e3da5fd7-111f-415e-a2c0-a13feb41cb72" playOrder="25">
+      <navLabel>
+        <text>CHAPTER 15: THE PRESSURE ROOM</text>
+      </navLabel>
+      <content src="text/part0025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8090de58-dc7e-4ff7-a9a2-906538f0caff" playOrder="26">
+      <navLabel>
+        <text>CHAPTER 16: THE LAST AND THE BIGGEST</text>
+      </navLabel>
+      <content src="text/part0026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4484fbf5-2cef-4750-a75d-35c35fde4ed3" playOrder="27">
+      <navLabel>
+        <text>CHAPTER 17: HOODS’ CONGRESS</text>
+      </navLabel>
+      <content src="text/part0027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a2fbc947-2090-43ce-b67f-569c47454194" playOrder="28">
+      <navLabel>
+        <text>CHAPTER 18: CRIME DE LA CRIME</text>
+      </navLabel>
+      <content src="text/part0028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5abc4ebd-8671-4ba5-87b1-b2bbce9b393c" playOrder="29">
+      <navLabel>
+        <text>CHAPTER 19: SECRET APPENDIX</text>
+      </navLabel>
+      <content src="text/part0029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="aaa534b6-a8b9-4eb6-bc3d-66099f69f33a" playOrder="30">
+      <navLabel>
+        <text>CHAPTER 20: JOURNEY INTO HOLOCAUST</text>
+      </navLabel>
+      <content src="text/part0030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="77b96631-3327-4649-b7c9-c0630ebeb47f" playOrder="31">
+      <navLabel>
+        <text>CHAPTER 21: THE RICHEST MAN IN HISTORY</text>
+      </navLabel>
+      <content src="text/part0031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ee5fb717-1bee-4d3a-98ac-ad61eb42d530" playOrder="32">
+      <navLabel>
+        <text>CHAPTER 22: THE LAST TRICK</text>
+      </navLabel>
+      <content src="text/part0032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="645f8333-2183-4036-83db-a7867873c6dd" playOrder="33">
+      <navLabel>
+        <text>CHAPTER 23: T.L.C. TREATMENT</text>
+      </navLabel>
+      <content src="text/part0033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7f7f3b9d-14c7-4211-8e12-54a7cd8f71e3" playOrder="34">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0034.html"/>
     </navPoint>
   </navMap>
 </ncx>

@@ -1,45 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta content="124557aa-0126-4672-aece-e452071efaff" name="dtb:uid"/>
+    <meta content="668a4a88-54ad-45ea-8074-f8ba467ea237" name="dtb:uid"/>
     <meta content="2" name="dtb:depth"/>
-    <meta content="calibre (4.23.0)" name="dtb:generator"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
     <meta content="0" name="dtb:totalPageCount"/>
     <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>For Your Eyes Only</text>
+    <text>08 For Your Eyes Only</text>
   </docTitle>
   <navMap>
-    <navPoint id="uYHBuZUg7ifDKIZbTaLZaeC" playOrder="1">
+    <navPoint class="chapter" id="6cc0059d-97fa-42f3-8971-83304ddbea60" playOrder="1">
       <navLabel>
-        <text>FROM A VIEW TO A KILL</text>
+        <text>PRAISE FOR IAN FLEMING AND FOR YOUR EYES ONLY</text>
       </navLabel>
-      <content src="20170435-e_split_007.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="ud8kaAcyhStGSOSjBnvwHIF" playOrder="2">
+    <navPoint class="chapter" id="6fefe097-19be-4b68-88cd-c46ad324345f" playOrder="2">
       <navLabel>
-        <text>FOR YOUR EYES ONLY</text>
+        <text>THE JAMES BOND BOOKS</text>
       </navLabel>
-      <content src="20170435-e_split_008.html"/>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="uD39MfVJIjOqiUAFotc6pn2" playOrder="3">
+    <navPoint class="chapter" id="1b34c847-0ac8-4ba7-aee1-b3abd3c7c4cf" playOrder="3">
       <navLabel>
-        <text>QUANTUM OF SOLACE</text>
+        <text>HALF TITLE</text>
       </navLabel>
-      <content src="20170435-e_split_009.html"/>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="ueaFfvNVxhBbBHIjSVtjmz4" playOrder="4">
+    <navPoint class="chapter" id="ccf1c859-c78b-4e2e-876d-c185aee2afb9" playOrder="4">
       <navLabel>
-        <text>RISICO</text>
+        <text>COPYRIGHT</text>
       </navLabel>
-      <content src="20170435-e_split_010.html"/>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uRWYPmYYxRQCBeDHVKw9BH3" playOrder="5">
+    <navPoint class="chapter" id="c333a3ce-898f-4220-9b0d-74d0d04c37a7" playOrder="5">
       <navLabel>
-        <text>THE HILDEBRAND RARITY</text>
+        <text>TITLE</text>
       </navLabel>
-      <content src="20170435-e_split_011.html"/>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="763fe9c5-ef23-4c72-9b8b-167e422ad5dd" playOrder="6">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e5191daf-2e30-4ce8-979c-94ae8e886221" playOrder="7">
+      <navLabel>
+        <text>1 | FROM A VIEW TO A KILL</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="45c53f11-a433-436b-948c-3b5851167ad3" playOrder="8">
+      <navLabel>
+        <text>2 | FOR YOUR EYES ONLY</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5c199333-e536-4fbb-a5db-7370fde70ba4" playOrder="9">
+      <navLabel>
+        <text>3 | QUANTUM OF SOLACE</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8799be78-4045-443f-91e0-b12fb6b9e861" playOrder="10">
+      <navLabel>
+        <text>4 | RISICO</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8f1b57a0-3acc-4f4c-8760-a4a8ebd81132" playOrder="11">
+      <navLabel>
+        <text>5 | THE HILDEBRAND RARITY</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b18788c8-95b6-4742-ad5d-92fdd08eff4d" playOrder="12">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0011.html"/>
     </navPoint>
   </navMap>
 </ncx>

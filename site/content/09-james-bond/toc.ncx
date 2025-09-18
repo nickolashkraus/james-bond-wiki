@@ -1,165 +1,207 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta name="dtb:uid" content="6f6666a1-cebe-4303-bed9-73c8ee748101"/>
-    <meta name="dtb:depth" content="3"/>
-    <meta name="dtb:generator" content="calibre (5.23.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="f0a4dc32-e0d1-42f8-9c61-c41294959082" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>Thunderball</text>
+    <text>09 Thunderball</text>
   </docTitle>
   <navMap>
-    <navPoint id="uzC8X9NPPaFyl4FGpFUJxv6" playOrder="1">
+    <navPoint class="chapter" id="13c68a8f-0cff-42e1-b57c-f685f59e5e9e" playOrder="1">
       <navLabel>
-        <text>1</text>
+        <text>PRAISE FOR IAN FLEMING AND THUNDERBALL</text>
       </navLabel>
-      <content src="20191233-e_split_008.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="u2gLNE3L8ZUTJGYBf25ixjA" playOrder="2">
+    <navPoint class="chapter" id="64f6fe1b-b780-43d5-9e0c-de28e5ce66b0" playOrder="2">
       <navLabel>
-        <text>2</text>
+        <text>THE JAMES BOND BOOKS</text>
       </navLabel>
-      <content src="20191233-e_split_009.html"/>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="uVESRkUbg2J7XUJWKyCqEHG" playOrder="3">
+    <navPoint class="chapter" id="46b67c97-47cf-4172-8edb-062698b25947" playOrder="3">
       <navLabel>
-        <text>3</text>
+        <text>HALF TITLE</text>
       </navLabel>
-      <content src="20191233-e_split_010.html"/>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="urj4NaYjDyUk4ztRTtLJkq9" playOrder="4">
+    <navPoint class="chapter" id="96429ffc-5da2-46d4-8a7d-450dcf8a6f29" playOrder="4">
       <navLabel>
-        <text>4</text>
+        <text>COPYRIGHT</text>
       </navLabel>
-      <content src="20191233-e_split_011.html"/>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uj8YSqKko3aS7X8iZgBaUw4" playOrder="5">
+    <navPoint class="chapter" id="5193dcda-885b-4f45-967a-fca9e3af30bc" playOrder="5">
       <navLabel>
-        <text>5</text>
+        <text>TITLE</text>
       </navLabel>
-      <content src="20191233-e_split_012.html"/>
+      <content src="text/part0004.html"/>
     </navPoint>
-    <navPoint id="uzhmRoecAMmlEnavCLXz3QB" playOrder="6">
+    <navPoint class="chapter" id="419cad83-d57e-446d-8b98-278c24f533f1" playOrder="6">
       <navLabel>
-        <text>6</text>
+        <text>DEDICATION</text>
       </navLabel>
-      <content src="20191233-e_split_013.html"/>
+      <content src="text/part0005.html"/>
     </navPoint>
-    <navPoint id="u7hKmRJnyyAdOxNYIcuwJBH" playOrder="7">
+    <navPoint class="chapter" id="207a0310-f07c-48bd-bb05-1915081edf14" playOrder="7">
       <navLabel>
-        <text>7</text>
+        <text>CONTENTS</text>
       </navLabel>
-      <content src="20191233-e_split_014.html"/>
+      <content src="text/part0006.html"/>
     </navPoint>
-    <navPoint id="uitxoCP7vBFvikMAjqXTZP4" playOrder="8">
+    <navPoint class="chapter" id="57a1acc2-9ec3-4f9f-9076-462ad3869300" playOrder="8">
       <navLabel>
-        <text>8</text>
+        <text>1 | ‘TAKE IT EASY, MR BOND’</text>
       </navLabel>
-      <content src="20191233-e_split_015.html"/>
+      <content src="text/part0007.html"/>
     </navPoint>
-    <navPoint id="uL9vaifxkBZNG6ssMCcAsK2" playOrder="9">
+    <navPoint class="chapter" id="c75c265e-7a7e-490b-8143-78a662723aa8" playOrder="9">
       <navLabel>
-        <text>9</text>
+        <text>2 | SHRUBLANDS</text>
       </navLabel>
-      <content src="20191233-e_split_016.html"/>
+      <content src="text/part0008.html"/>
     </navPoint>
-    <navPoint id="uq3pdwTjfAigidu72OZVOxD" playOrder="10">
+    <navPoint class="chapter" id="11eaaa37-86f0-4127-85dc-1ac0e5195e6e" playOrder="10">
       <navLabel>
-        <text>10</text>
+        <text>3 | THE RACK</text>
       </navLabel>
-      <content src="20191233-e_split_017.html"/>
+      <content src="text/part0009.html"/>
     </navPoint>
-    <navPoint id="uMXY4SkwUK2oJgun4nrVms7" playOrder="11">
+    <navPoint class="chapter" id="40a4990f-c3a2-46d2-adbe-8ff147a4d339" playOrder="11">
       <navLabel>
-        <text>11</text>
+        <text>4 | TEA AND ANIMOSITY</text>
       </navLabel>
-      <content src="20191233-e_split_018.html"/>
+      <content src="text/part0010.html"/>
     </navPoint>
-    <navPoint id="uOjRXvVUkgDg7jQxSdfClnD" playOrder="12">
+    <navPoint class="chapter" id="9230adcd-85cc-489a-b6e7-2e5ea450a96e" playOrder="12">
       <navLabel>
-        <text>12</text>
+        <text>5 | SPECTRE</text>
       </navLabel>
-      <content src="20191233-e_split_019.html"/>
+      <content src="text/part0011.html"/>
     </navPoint>
-    <navPoint id="uyBwKiH4zuneobX35ct8WA7" playOrder="13">
+    <navPoint class="chapter" id="6d1c2f29-863b-4964-819a-361df45ea91c" playOrder="13">
       <navLabel>
-        <text>13</text>
+        <text>6 | VIOLET-SCENTED BREATH</text>
       </navLabel>
-      <content src="20191233-e_split_020.html"/>
+      <content src="text/part0012.html"/>
     </navPoint>
-    <navPoint id="uJk2rKkuptvJg5DexN3Aoe6" playOrder="14">
+    <navPoint class="chapter" id="cf852b62-5b73-4f11-85eb-7db456552b47" playOrder="14">
       <navLabel>
-        <text>14</text>
+        <text>7 | ‘FASTEN YOUR LAP-STRAP’</text>
       </navLabel>
-      <content src="20191233-e_split_021.html"/>
+      <content src="text/part0013.html"/>
     </navPoint>
-    <navPoint id="ulscXnfIeiqrKWveQ2lgVK4" playOrder="15">
+    <navPoint class="chapter" id="59bdc4d3-778c-47f4-b6a4-f66a214f2e15" playOrder="15">
       <navLabel>
-        <text>15</text>
+        <text>8 | ‘BIG FLEAS HAVE LITTLE FLEAS ...’</text>
       </navLabel>
-      <content src="20191233-e_split_022.html"/>
+      <content src="text/part0014.html"/>
     </navPoint>
-    <navPoint id="u5mAqJzLgJ4qAhrRQGVEQC5" playOrder="16">
+    <navPoint class="chapter" id="1693347f-0ffe-40b7-8c57-9f317c4bd80b" playOrder="16">
       <navLabel>
-        <text>16</text>
+        <text>9 | MULTIPLE REQUIEM</text>
       </navLabel>
-      <content src="20191233-e_split_023.html"/>
+      <content src="text/part0015.html"/>
     </navPoint>
-    <navPoint id="u26xR5ePlckBHSp3bYkbjV6" playOrder="17">
+    <navPoint class="chapter" id="20cdc30e-70a1-4e94-a2a9-c7a9c8d09cc4" playOrder="17">
       <navLabel>
-        <text>17</text>
+        <text>10 | THE DISCO VOLANTE</text>
       </navLabel>
-      <content src="20191233-e_split_024.html"/>
+      <content src="text/part0016.html"/>
     </navPoint>
-    <navPoint id="u6acObpmshSt4EhSo6o8hOB" playOrder="18">
+    <navPoint class="chapter" id="b1d46973-cb87-4900-961d-42cebc0718b4" playOrder="18">
       <navLabel>
-        <text>18</text>
+        <text>11 | DOMINO</text>
       </navLabel>
-      <content src="20191233-e_split_025.html"/>
+      <content src="text/part0017.html"/>
     </navPoint>
-    <navPoint id="utNyAjKBQ3hgMJDESktgLM9" playOrder="19">
+    <navPoint class="chapter" id="9f7a03af-3257-4358-b129-ec3fa46190e5" playOrder="19">
       <navLabel>
-        <text>19</text>
+        <text>12 | THE MAN FROM THE C.I.A.</text>
       </navLabel>
-      <content src="20191233-e_split_026.html"/>
+      <content src="text/part0018.html"/>
     </navPoint>
-    <navPoint id="ubGxkTdQ5My9tMkdNbDzDv8" playOrder="20">
+    <navPoint class="chapter" id="c1ec9b20-1063-44a8-9b90-b82f8008b8cc" playOrder="20">
       <navLabel>
-        <text>20</text>
+        <text>13 | ‘MY NAME IS EMILIO LARGO’</text>
       </navLabel>
-      <content src="20191233-e_split_027.html"/>
+      <content src="text/part0019.html"/>
     </navPoint>
-    <navPoint id="uBs9haS2XWc7btURsV2tHzA" playOrder="21">
+    <navPoint class="chapter" id="b344e936-504a-4413-9c9e-66ab8b139d57" playOrder="21">
       <navLabel>
-        <text>21</text>
+        <text>14 | SOUR MARTINIS</text>
       </navLabel>
-      <content src="20191233-e_split_028.html"/>
+      <content src="text/part0020.html"/>
     </navPoint>
-    <navPoint id="uSXus8LK6d3pYPjxF7Hmn78" playOrder="22">
+    <navPoint class="chapter" id="e8d4bcab-6900-4e7a-8929-b4fccab32b95" playOrder="22">
       <navLabel>
-        <text>22</text>
+        <text>15 | CARDBOARD HERO</text>
       </navLabel>
-      <content src="20191233-e_split_029.html"/>
+      <content src="text/part0021.html"/>
     </navPoint>
-    <navPoint id="uZLov8mhPWX9bR38DJNzPwD" playOrder="23">
+    <navPoint class="chapter" id="6cef561f-40bb-42e5-9071-aa824badc61b" playOrder="23">
       <navLabel>
-        <text>23</text>
+        <text>16 | SWIMMING THE GAUNTLET</text>
       </navLabel>
-      <content src="20191233-e_split_030.html"/>
+      <content src="text/part0022.html"/>
     </navPoint>
-    <navPoint id="uIDVkzcFLwDNecLHB9bSXx5" playOrder="24">
+    <navPoint class="chapter" id="e45d96ab-80e4-4211-8823-dcf272a938bc" playOrder="24">
       <navLabel>
-        <text>24</text>
+        <text>17 | THE RED-EYED CATACOMB</text>
       </navLabel>
-      <content src="20191233-e_split_031.html"/>
-      <navPoint id="usg2kjeRbJCLjsMW2A3Jvu9" playOrder="25">
-        <navLabel>
-          <text>TRANSCRIBER NOTES</text>
-        </navLabel>
-        <content src="20191233-e_split_033.html"/>
-      </navPoint>
+      <content src="text/part0023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f64e07e0-5df6-46d3-a8f0-44f8a9344cbf" playOrder="25">
+      <navLabel>
+        <text>18 | HOW TO EAT A GIRL</text>
+      </navLabel>
+      <content src="text/part0024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4a2456f4-5774-4748-ae6d-301440205eb7" playOrder="26">
+      <navLabel>
+        <text>19 | WHEN THE KISSING STOPPED</text>
+      </navLabel>
+      <content src="text/part0025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="76f50af0-80dc-4dfe-87ef-063dd8824001" playOrder="27">
+      <navLabel>
+        <text>20 | TIME FOR DECISION</text>
+      </navLabel>
+      <content src="text/part0026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ad1392e1-0dc5-41b3-982e-19c955cbf1a9" playOrder="28">
+      <navLabel>
+        <text>21 | VERY SOFTLY, VERY SLOWLY</text>
+      </navLabel>
+      <content src="text/part0027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b80ef831-6a92-400c-96cd-f30c8af2aba0" playOrder="29">
+      <navLabel>
+        <text>22 | THE SHADOWER</text>
+      </navLabel>
+      <content src="text/part0028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6a099dc2-0497-4234-a185-7270b7e5e524" playOrder="30">
+      <navLabel>
+        <text>23 | NAKED WARFARE</text>
+      </navLabel>
+      <content src="text/part0029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5e48f50a-2d1e-4c65-b134-d87ab8b83a51" playOrder="31">
+      <navLabel>
+        <text>24 | ‘TAKE IT EASY, MR BOND’</text>
+      </navLabel>
+      <content src="text/part0030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="90364c37-2750-4d2f-8384-e68e84ca513e" playOrder="32">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0031.html"/>
     </navPoint>
   </navMap>
 </ncx>

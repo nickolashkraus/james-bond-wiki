@@ -1,135 +1,165 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
   <head>
-    <meta content="41ac265a-b3b8-4369-8704-a4f59367f9d2" name="dtb:uid"/>
-    <meta content="3" name="dtb:depth"/>
-    <meta content="calibre (4.23.0)" name="dtb:generator"/>
+    <meta content="f6a9ea0e-945c-42da-84f6-1f7692a7fc3b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.38)" name="dtb:generator"/>
     <meta content="0" name="dtb:totalPageCount"/>
     <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>The Spy Who Loved Me</text>
+    <text>10 The Spy Who Loved Me</text>
   </docTitle>
   <navMap>
-    <navPoint id="ul6aTs2x5pH7eNczeZGAuJ6" playOrder="1">
+    <navPoint class="chapter" id="6876b328-df53-4686-87bd-82133e12ec57" playOrder="1">
       <navLabel>
-        <text>Contents</text>
+        <text>PRAISE FOR IAN FLEMING AND THE SPY WHO LOVED ME</text>
       </navLabel>
-      <content src="20151114-e_split_002.html"/>
+      <content src="text/part0000.html"/>
     </navPoint>
-    <navPoint id="uPgZvPXesyC9VexXoCkI762" playOrder="2">
+    <navPoint class="chapter" id="7679493e-81d6-4acd-91ab-fc964d7a552f" playOrder="2">
       <navLabel>
-        <text>PART ONE Me</text>
+        <text>THE JAMES BOND BOOKS</text>
       </navLabel>
-      <content src="20151114-e_split_003.html#calibre_toc_2"/>
-      <navPoint id="u4GjNnBjrTFouA2rptGcePA" playOrder="3">
-        <navLabel>
-          <text>1. Scaredy Cat</text>
-        </navLabel>
-        <content src="20151114-e_split_004.html"/>
-      </navPoint>
-      <navPoint id="uUVtNZBqkhqQokL5ceWEJiB" playOrder="4">
-        <navLabel>
-          <text>2. Dear Dead Days</text>
-        </navLabel>
-        <content src="20151114-e_split_005.html"/>
-      </navPoint>
-      <navPoint id="uk9Icmw7xjAxaxTkHz8UN27" playOrder="5">
-        <navLabel>
-          <text>3. Spring’s Awakening</text>
-        </navLabel>
-        <content src="20151114-e_split_006.html"/>
-      </navPoint>
-      <navPoint id="ugPNDO7yTTK86XQMfRppbUC" playOrder="6">
-        <navLabel>
-          <text>4. ‘Dear Viv’</text>
-        </navLabel>
-        <content src="20151114-e_split_007.html"/>
-      </navPoint>
-      <navPoint id="uJ2cTucrFK2yvuvoSjBaKP5" playOrder="7">
-        <navLabel>
-          <text>5. A Bird with a Wing Down</text>
-        </navLabel>
-        <content src="20151114-e_split_008.html"/>
-      </navPoint>
-      <navPoint id="usJ35IA2oJkLmAlltLNz7YC" playOrder="8">
-        <navLabel>
-          <text>6. Go West, Young Woman</text>
-        </navLabel>
-        <content src="20151114-e_split_009.html"/>
-      </navPoint>
+      <content src="text/part0001.html"/>
     </navPoint>
-    <navPoint id="uK8yYejGy6yttauHsqe34s6" playOrder="9">
+    <navPoint class="chapter" id="1e79cfb0-c25e-4bbd-866a-5703e39556e2" playOrder="3">
       <navLabel>
-        <text>PART TWO Them</text>
+        <text>HALF TITLE</text>
       </navLabel>
-      <content src="20151114-e_split_010.html"/>
-      <navPoint id="uqIfnmW4jmulVKqLP3ZNXXD" playOrder="10">
-        <navLabel>
-          <text>7. ‘Come into My Parlour . . .’</text>
-        </navLabel>
-        <content src="20151114-e_split_011.html"/>
-      </navPoint>
-      <navPoint id="u6CpsJpi9LiELlIEDB4g3I6" playOrder="11">
-        <navLabel>
-          <text>8. Dynamite from Nightmare-land</text>
-        </navLabel>
-        <content src="20151114-e_split_012.html"/>
-      </navPoint>
-      <navPoint id="uRBZDfz8ZPkMzcaQ2fmcDHF" playOrder="12">
-        <navLabel>
-          <text>9. Then I Began to Scream</text>
-        </navLabel>
-        <content src="20151114-e_split_013.html"/>
-      </navPoint>
+      <content src="text/part0002.html"/>
     </navPoint>
-    <navPoint id="uVmIunVzfDHOf3GnoH2KPC4" playOrder="13">
+    <navPoint class="chapter" id="3db859a2-4646-4e34-9d2d-bba79dfa4a4a" playOrder="4">
       <navLabel>
-        <text>PART THREE Him</text>
+        <text>COPYRIGHT</text>
       </navLabel>
-      <content src="20151114-e_split_014.html"/>
-      <navPoint id="us7pxxR6fJKhncKgSyV4oZB" playOrder="14">
-        <navLabel>
-          <text>10. Whassat?</text>
-        </navLabel>
-        <content src="20151114-e_split_015.html"/>
-      </navPoint>
-      <navPoint id="umptccHZWEHYldsiUWcBuj9" playOrder="15">
-        <navLabel>
-          <text>11. Bedtime Story</text>
-        </navLabel>
-        <content src="20151114-e_split_016.html"/>
-      </navPoint>
-      <navPoint id="ugxSxUNswWsl9DJhTaMyjeE" playOrder="16">
-        <navLabel>
-          <text>12. To Sleep—Perchance to Die!</text>
-        </navLabel>
-        <content src="20151114-e_split_017.html"/>
-      </navPoint>
-      <navPoint id="uvxpgRlnDEfnqFj4GApCZCC" playOrder="17">
-        <navLabel>
-          <text>13. The Crash of Guns</text>
-        </navLabel>
-        <content src="20151114-e_split_018.html"/>
-      </navPoint>
-      <navPoint id="uLZdLV6tWLSlgYS6iHSlq7E" playOrder="18">
-        <navLabel>
-          <text>14. Bimbo</text>
-        </navLabel>
-        <content src="20151114-e_split_019.html"/>
-      </navPoint>
-      <navPoint id="uWt8o9d7KXGuCietrhRNbwC" playOrder="19">
-        <navLabel>
-          <text>15. The Writing on My Heart</text>
-        </navLabel>
-        <content src="20151114-e_split_020.html"/>
-      </navPoint>
+      <content src="text/part0003.html"/>
     </navPoint>
-    <navPoint id="uL95Qif3AId9KjjG6paj8tA" playOrder="20">
+    <navPoint class="chapter" id="db4ece24-4fe3-4879-be2e-bddda90604aa" playOrder="5">
       <navLabel>
-        <text>TRANSCRIBER NOTES</text>
+        <text>TITLE</text>
       </navLabel>
-      <content src="20151114-e_split_021.html"/>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c5965d9e-6ea4-4d4f-aaec-557a3d9dbf41" playOrder="6">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e1e64c62-bf02-4027-a3ff-91b4f8db66c5" playOrder="7">
+      <navLabel>
+        <text>PART ONE</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="df17d1b3-722a-4a81-b3c7-23043dcdd210" playOrder="8">
+      <navLabel>
+        <text>1. SCAREDY CAT</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4ee7382b-7b54-4695-b116-7c523d63f650" playOrder="9">
+      <navLabel>
+        <text>2. DEAR DEAD DAYS</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c7272117-4f3e-4d03-b93e-4bc9f70db334" playOrder="10">
+      <navLabel>
+        <text>3. SPRING'S AWAKENING</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="eeea6be8-d3db-4848-b1ac-82f404d2576e" playOrder="11">
+      <navLabel>
+        <text>4. ‘DEAR VIV’</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="002a02aa-e285-4718-8399-ec3fdf87001c" playOrder="12">
+      <navLabel>
+        <text>5. A BIRD WITH A WING DOWN</text>
+      </navLabel>
+      <content src="text/part0011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8d381a42-8826-45e1-ac1b-a1ca6dcdc2a8" playOrder="13">
+      <navLabel>
+        <text>6. GO WEST, YOUNG WOMAN</text>
+      </navLabel>
+      <content src="text/part0012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="968e88c6-436c-4d9c-bfbb-b18b11fd822e" playOrder="14">
+      <navLabel>
+        <text>PART TWO</text>
+      </navLabel>
+      <content src="text/part0013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="8165b4fe-ede1-4f19-9335-df343f0c1482" playOrder="15">
+      <navLabel>
+        <text>7. COME INTO MY PARLOUR</text>
+      </navLabel>
+      <content src="text/part0014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4c52834d-df4e-4e53-83dd-8a7ad2d098b3" playOrder="16">
+      <navLabel>
+        <text>8. DYNAMITE FROM NIGHTMARE</text>
+      </navLabel>
+      <content src="text/part0015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7d9810c1-874f-4837-85d3-b65380073d69" playOrder="17">
+      <navLabel>
+        <text>9. THEN I BEGAN TO SCREAM</text>
+      </navLabel>
+      <content src="text/part0016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="607feeae-f299-46c2-95a2-eb9cae08c312" playOrder="18">
+      <navLabel>
+        <text>PART THREE</text>
+      </navLabel>
+      <content src="text/part0017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="17984fab-82c3-43a8-ba86-e333f7324410" playOrder="19">
+      <navLabel>
+        <text>10. WHASSAT?</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a8da6f97-d72f-4597-b0fb-41f82301c2aa" playOrder="20">
+      <navLabel>
+        <text>11. BEDTIME STORY</text>
+      </navLabel>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="153221b6-26dd-4209-a8c8-f93c5bb92cc2" playOrder="21">
+      <navLabel>
+        <text>12. TO SLEEP – PERCHANCE TO DIE!</text>
+      </navLabel>
+      <content src="text/part0020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="390b234a-ed23-4389-9bc7-5c4623b3727e" playOrder="22">
+      <navLabel>
+        <text>13. THE CRASH OF GUNS</text>
+      </navLabel>
+      <content src="text/part0021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="834d3e34-774e-466a-8f3b-0e7203454ff4" playOrder="23">
+      <navLabel>
+        <text>14. BIMBO</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="54aa6a5f-ae3c-4af2-ba05-9da06f82c8db" playOrder="24">
+      <navLabel>
+        <text>15. THE WRITING ON MY HEART</text>
+      </navLabel>
+      <content src="text/part0023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="39500c66-0942-4020-9e3a-93a4275cb203" playOrder="25">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="text/part0024.html"/>
     </navPoint>
   </navMap>
 </ncx>

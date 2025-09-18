@@ -1,103 +1,118 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
-  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
-    <dc:title>You Only Live Twice</dc:title>
-    <dc:creator opf:file-as="Unknown" opf:role="aut">Ian Fleming</dc:creator>
-    <dc:publisher>Distributed Proofreaders Canada</dc:publisher>
-    <meta name="calibre:series" content="James Bond"/>
-    <dc:language>en</dc:language>
-    <meta name="calibre:series_index" content="12"/>
-    <dc:subject>adventure</dc:subject>
-    <dc:subject>Asia</dc:subject>
-    <dc:subject>fiction</dc:subject>
-    <dc:subject>James Bond (Fictional character)</dc:subject>
-    <dc:subject>intelligence service</dc:subject>
-    <dc:subject>spy stories</dc:subject>
-    <dc:subject>film/TV adaptation</dc:subject>
-    <dc:date>1964-08-15T05:00:00+00:00</dc:date>
-    <meta name="calibre:timestamp" content="2021-08-28T13:48:36.347906+00:00"/>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">a93cabe7-ad33-4a38-a527-a18ee1ea5555</dc:identifier>
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Fleming, Ian">Ian Fleming</dc:creator>
+<dc:publisher>AmazonEncore</dc:publisher>
+    <meta name="calibre:series_index" content="12.0"/>
+    <dc:description>&lt;div&gt;&lt;p&gt;The tragic end to James Bond’s last mission—courtesy of Ernst Stavro Blofeld—has left 007 a broken man and of little use to the British Secret Service. At his wit’s end, M decides that the only way to snap his best agent out of his torpor is to send him on an impossible diplomatic mission to Japan. Bond’s contact there is the formidable Japanese spymaster Tiger Tanaka, who agrees to do business with the West if Bond will assassinate one of his enemies: a mysterious Swiss botanist named Dr. Guntram Shatterhand. &lt;/p&gt;&lt;p&gt;Shatterhand is not who he seems, however, and his impregnable fortress—known to the locals as the “Castle of Death”—is a gauntlet of traps no &lt;em&gt;gaijin&lt;/em&gt; has ever penetrated. But through rigorous ninja training, and with some help from the beautiful and able Kissy Suzuki, Bond manages to gain access to Shatterhand’s lair. Inside lurks certain doom at the hands of 007’s bitterest foe—or a final chance to exact ultimate vengeance.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;A sensational imagination Sunday Times Instructive and entertaining Cyril Connolly &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Ian Fleming was born in London on May 28, 1908. He was educated at Eton College and later spent a formative period studying languages in Europe. His first job was with Reuters News Agency where a Moscow posting gave him firsthand experience with what would become his literary &lt;em&gt;bete noire&lt;/em&gt;—the Soviet Union. During World War II he served as Assistant to the Director of Naval Intelligence and played a key role in Allied espionage operations. &lt;/p&gt;&lt;p&gt;After the war he worked as foreign manager of the &lt;em&gt;Sunday Times&lt;/em&gt;, a job that allowed him to spend two months each year in Jamaica. Here, in 1952, at his home “Goldeneye,” he wrote a book called &lt;em&gt;Casino Royale&lt;/em&gt;—and James Bond was born. The first print run sold out within a month. For the next twelve years Fleming produced a novel a year featuring Special Agent 007, the most famous spy of the century. His travels, interests, and wartime experience lent authority to everything he wrote. Raymond Chandler described him as “the most forceful and driving writer of thrillers in England.” Sales soared when President Kennedy named the fifth title, &lt;em&gt;From Russia With Love&lt;/em&gt;, one of his favorite books. The Bond novels have sold more than one hundred million copies worldwide, boosted by the hugely successful film franchise that began in 1962 with the release of &lt;em&gt;Dr. No&lt;/em&gt;. &lt;/p&gt;&lt;p&gt;He married Anne Rothermere in 1952. His story about a magical car, written in 1961 for their only son Caspar, went on to become the well- loved novel and film &lt;em&gt;Chitty Chitty Bang Bang&lt;/em&gt;. &lt;/p&gt;&lt;p&gt;Fleming died of heart failure on August 12, 1964, at the age of fifty-six. &lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta name="calibre:series" content="James Bond (Original Series)"/>
+    <meta name="calibre:title_sort" content="12 You Only Live Twice"/>
     <meta name="cover" content="cover"/>
-  </metadata>
+    <dc:date>1964-01-01T06:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2015-10-14T23:14:31+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>12 You Only Live Twice</dc:title>
+    <dc:identifier opf:scheme="GOOGLE">Te1JMQEACAAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">1612185568</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">1612185568</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">B008L40P7U</dc:identifier>
+    <dc:identifier opf:scheme="FF">f/ian-fleming/you-only-live-twice</dc:identifier>
+    <dc:identifier opf:scheme="BARNESNOBLE">w/you-only-live-twice-ian-fleming/1100675052</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">15954479</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6e209d87-9308-416f-a3a1-4458a12c2617</dc:identifier>
+    <meta name="calibre:rating" content="0"/>
+<dc:subject>Fiction</dc:subject>
+<dc:subject>Espionage</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Ian Fleming&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+</metadata>
   <manifest>
-    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
-    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
-    <item id="html32" href="20171118-e_split_000.html" media-type="application/xhtml+xml"/>
-    <item id="html31" href="20171118-e_split_001.html" media-type="application/xhtml+xml"/>
-    <item id="html30" href="20171118-e_split_002.html" media-type="application/xhtml+xml"/>
-    <item id="html29" href="20171118-e_split_003.html" media-type="application/xhtml+xml"/>
-    <item id="html28" href="20171118-e_split_004.html" media-type="application/xhtml+xml"/>
-    <item id="html27" href="20171118-e_split_005.html" media-type="application/xhtml+xml"/>
-    <item id="html26" href="20171118-e_split_006.html" media-type="application/xhtml+xml"/>
-    <item id="html25" href="20171118-e_split_007.html" media-type="application/xhtml+xml"/>
-    <item id="html24" href="20171118-e_split_008.html" media-type="application/xhtml+xml"/>
-    <item id="html23" href="20171118-e_split_009.html" media-type="application/xhtml+xml"/>
-    <item id="html22" href="20171118-e_split_010.html" media-type="application/xhtml+xml"/>
-    <item id="html21" href="20171118-e_split_011.html" media-type="application/xhtml+xml"/>
-    <item id="html20" href="20171118-e_split_012.html" media-type="application/xhtml+xml"/>
-    <item id="html19" href="20171118-e_split_013.html" media-type="application/xhtml+xml"/>
-    <item id="html18" href="20171118-e_split_014.html" media-type="application/xhtml+xml"/>
-    <item id="html17" href="20171118-e_split_015.html" media-type="application/xhtml+xml"/>
-    <item id="html16" href="20171118-e_split_016.html" media-type="application/xhtml+xml"/>
-    <item id="html15" href="20171118-e_split_017.html" media-type="application/xhtml+xml"/>
-    <item id="html14" href="20171118-e_split_018.html" media-type="application/xhtml+xml"/>
-    <item id="html13" href="20171118-e_split_019.html" media-type="application/xhtml+xml"/>
-    <item id="html12" href="20171118-e_split_020.html" media-type="application/xhtml+xml"/>
-    <item id="html11" href="20171118-e_split_021.html" media-type="application/xhtml+xml"/>
-    <item id="html10" href="20171118-e_split_022.html" media-type="application/xhtml+xml"/>
-    <item id="html9" href="20171118-e_split_023.html" media-type="application/xhtml+xml"/>
-    <item id="html8" href="20171118-e_split_024.html" media-type="application/xhtml+xml"/>
-    <item id="html7" href="20171118-e_split_025.html" media-type="application/xhtml+xml"/>
-    <item id="html6" href="20171118-e_split_026.html" media-type="application/xhtml+xml"/>
-    <item id="html5" href="20171118-e_split_027.html" media-type="application/xhtml+xml"/>
-    <item id="html4" href="20171118-e_split_028.html" media-type="application/xhtml+xml"/>
-    <item id="html3" href="20171118-e_split_029.html" media-type="application/xhtml+xml"/>
-    <item id="html2" href="20171118-e_split_030.html" media-type="application/xhtml+xml"/>
-    <item id="html1" href="20171118-e_split_031.html" media-type="application/xhtml+xml"/>
-    <item id="added2" href="font-kranky.ttf" media-type="application/x-font-truetype"/>
-    <item id="added3" href="font-macondo_swash_caps.ttf" media-type="application/x-font-truetype"/>
-    <item id="added" href="cover.jpg" media-type="image/jpeg"/>
-    <item id="added1" href="times.jpg" media-type="image/jpeg"/>
-    <item id="page_css" href="page_styles.css" media-type="text/css"/>
-    <item id="css" href="stylesheet.css" media-type="text/css"/>
-    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="cover1.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00016.jpeg" id="id16" media-type="image/jpeg"/>
+    <item href="images/00017.jpeg" id="id17" media-type="image/jpeg"/>
+    <item href="images/00018.jpeg" id="id18" media-type="image/jpeg"/>
+    <item href="images/00019.jpeg" id="id19" media-type="image/jpeg"/>
+    <item href="images/00020.jpeg" id="id20" media-type="image/jpeg"/>
+    <item href="images/00021.jpeg" id="id21" media-type="image/jpeg"/>
+    <item href="images/00022.jpeg" id="id22" media-type="image/jpeg"/>
+    <item href="images/00023.jpeg" id="id23" media-type="image/jpeg"/>
+    <item href="images/00024.jpeg" id="id24" media-type="image/jpeg"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="text/part0000.html" id="id31" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id32" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id36" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id37" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id38" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id39" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id40" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id41" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id42" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id43" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id44" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id45" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id46" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id47" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id48" media-type="application/xhtml+xml"/>
+    <item href="text/part0018.html" id="id49" media-type="application/xhtml+xml"/>
+    <item href="text/part0019.html" id="id50" media-type="application/xhtml+xml"/>
+    <item href="text/part0020.html" id="id51" media-type="application/xhtml+xml"/>
+    <item href="text/part0021.html" id="id52" media-type="application/xhtml+xml"/>
+    <item href="text/part0022.html" id="id53" media-type="application/xhtml+xml"/>
+    <item href="text/part0023.html" id="id54" media-type="application/xhtml+xml"/>
+    <item href="text/part0024.html" id="id55" media-type="application/xhtml+xml"/>
+    <item href="text/part0025.html" id="id56" media-type="application/xhtml+xml"/>
+    <item href="text/part0026.html" id="id57" media-type="application/xhtml+xml"/>
+    <item href="text/part0027.html" id="id58" media-type="application/xhtml+xml"/>
+    <item href="text/part0028.html" id="id59" media-type="application/xhtml+xml"/>
+    <item href="text/part0029.html" id="id60" media-type="application/xhtml+xml"/>
+    <item href="text/part0030.html" id="id61" media-type="application/xhtml+xml"/>
+    <item href="text/part0031.html" id="id62" media-type="application/xhtml+xml"/>
+    <item href="text/part0032.html" id="id63" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="titlepage"/>
-    <itemref idref="html32"/>
-    <itemref idref="html31"/>
-    <itemref idref="html30"/>
-    <itemref idref="html29"/>
-    <itemref idref="html28"/>
-    <itemref idref="html27"/>
-    <itemref idref="html26"/>
-    <itemref idref="html25"/>
-    <itemref idref="html24"/>
-    <itemref idref="html23"/>
-    <itemref idref="html22"/>
-    <itemref idref="html21"/>
-    <itemref idref="html20"/>
-    <itemref idref="html19"/>
-    <itemref idref="html18"/>
-    <itemref idref="html17"/>
-    <itemref idref="html16"/>
-    <itemref idref="html15"/>
-    <itemref idref="html14"/>
-    <itemref idref="html13"/>
-    <itemref idref="html12"/>
-    <itemref idref="html11"/>
-    <itemref idref="html10"/>
-    <itemref idref="html9"/>
-    <itemref idref="html8"/>
-    <itemref idref="html7"/>
-    <itemref idref="html6"/>
-    <itemref idref="html5"/>
-    <itemref idref="html4"/>
-    <itemref idref="html3"/>
-    <itemref idref="html2"/>
-    <itemref idref="html1"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id57"/>
+    <itemref idref="id58"/>
+    <itemref idref="id59"/>
+    <itemref idref="id60"/>
+    <itemref idref="id61"/>
+    <itemref idref="id62"/>
+    <itemref idref="id63"/>
   </spine>
   <guide>
-    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+    <reference href="text/part0007.html" type="toc" title="Table of Contents"/>
   </guide>
 </package>
